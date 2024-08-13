@@ -1,0 +1,974 @@
+{"prompt": "\"\"\"\nWrite a function to find the longest chain which can be formed from the given set of pairs.\n\"\"\"\ndef max_chain_length(arr, n): \n\t", "source": "MBPP:601"}
+{"prompt": "\"\"\"\nWrite a python function to find the first repeated character in a given string.\n\"\"\"\ndef first_repeated_char(str1):\n\t", "source": "MBPP:602"}
+{"prompt": "\"\"\"\nWrite a function to get a lucid number smaller than or equal to n.\n\"\"\"\ndef get_ludic(n):\n\t", "source": "MBPP:603"}
+{"prompt": "\"\"\"\nWrite a function to reverse words in a given string.\n\"\"\"\ndef reverse_words(s):\n\t", "source": "MBPP:604"}
+{"prompt": "\"\"\"\nWrite a function to check if the given integer is a prime number.\n\"\"\"\ndef prime_num(num):\n\t", "source": "MBPP:605"}
+{"prompt": "\"\"\"\nWrite a function to convert degrees to radians.\n\"\"\"\ndef radian_degree(degree):\n\t", "source": "MBPP:606"}
+{"prompt": "\"\"\"\nWrite a function to search a literals string in a string and also find the location within the original string where the pattern occurs by using regex.\n\"\"\"\ndef find_literals(text, pattern):\n\t", "source": "MBPP:607"}
+{"prompt": "\"\"\"\nWrite a python function to find nth bell number.\n\"\"\"\ndef bell_Number(n): \n\t", "source": "MBPP:608"}
+{"prompt": "\"\"\"\nWrite a python function to find minimum possible value for the given periodic function.\n\"\"\"\ndef floor_Min(A,B,N):\n\t", "source": "MBPP:609"}
+{"prompt": "\"\"\"\nWrite a python function to remove the k'th element from a given list.\n\"\"\"\ndef remove_kth_element(list1, L):\n\t", "source": "MBPP:610"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum of nth column from the given tuple list.\n\"\"\"\ndef max_of_nth(test_list, N):\n\t", "source": "MBPP:611"}
+{"prompt": "\"\"\"\nWrite a python function to merge the first and last elements separately in a list of lists.\n\"\"\"\ndef merge(lst):  \n\t", "source": "MBPP:612"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum value in record list as tuple attribute in the given tuple list.\n\"\"\"\ndef maximum_value(test_list):\n\t", "source": "MBPP:613"}
+{"prompt": "\"\"\"\nWrite a function to find the cumulative sum of all the values that are present in the given tuple list.\n\"\"\"\ndef cummulative_sum(test_list):\n\t", "source": "MBPP:614"}
+{"prompt": "\"\"\"\nWrite a function to find average value of the numbers in a given tuple of tuples.\n\"\"\"\ndef average_tuple(nums):\n\t", "source": "MBPP:615"}
+{"prompt": "\"\"\"\nWrite a function to perfom the modulo of tuple elements in the given two tuples.\n\"\"\"\ndef tuple_modulo(test_tup1, test_tup2):\n\t", "source": "MBPP:616"}
+{"prompt": "\"\"\"\nWrite a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane.\n\"\"\"\ndef min_Jumps(a, b, d): \n\t", "source": "MBPP:617"}
+{"prompt": "\"\"\"\nWrite a function to divide two lists using map and lambda function.\n\"\"\"\ndef div_list(nums1,nums2):\n\t", "source": "MBPP:618"}
+{"prompt": "\"\"\"\nWrite a function to move all the numbers in it to the given string.\n\"\"\"\ndef move_num(test_str):\n\t", "source": "MBPP:619"}
+{"prompt": "\"\"\"\nWrite a function to find the largest subset where each pair is divisible.\n\"\"\"\ndef largest_subset(a, n):\n\t", "source": "MBPP:620"}
+{"prompt": "\"\"\"\nWrite a function to increment the numeric values in the given strings by k.\n\"\"\"\ndef increment_numerics(test_list, K):\n\t", "source": "MBPP:621"}
+{"prompt": "\"\"\"\nWrite a function to find the median of two sorted arrays of same size.\n\"\"\"\ndef get_median(arr1, arr2, n):\n\t", "source": "MBPP:622"}
+{"prompt": "\"\"\"\nWrite a function to find the n-th power of individual elements in a list using lambda function.\n\"\"\"\ndef nth_nums(nums,n):\n\t", "source": "MBPP:623"}
+{"prompt": "\"\"\"\nWrite a python function to convert the given string to upper case.\n\"\"\"\ndef is_upper(string):\n\t", "source": "MBPP:624"}
+{"prompt": "\"\"\"\nWrite a python function to interchange first and last elements in a given list.\n\"\"\"\ndef swap_List(newList): \n\t", "source": "MBPP:625"}
+{"prompt": "\"\"\"\nWrite a python function to find the largest triangle that can be inscribed in the semicircle.\n\"\"\"\ndef triangle_area(r) :  \n\t", "source": "MBPP:626"}
+{"prompt": "\"\"\"\nWrite a python function to find the smallest missing number from the given array.\n\"\"\"\ndef find_First_Missing(array,start,end): \n\t", "source": "MBPP:627"}
+{"prompt": "\"\"\"\nWrite a function to replace all spaces in the given string with character * list item * list item * list item * list item '%20'.\n\"\"\"\ndef replace_spaces(string):\n\t", "source": "MBPP:628"}
+{"prompt": "\"\"\"\nWrite a python function to find even numbers from a mixed list.\n\"\"\"\ndef Split(list): \n\t", "source": "MBPP:629"}
+{"prompt": "\"\"\"\nWrite a function to extract all the adjacent coordinates of the given coordinate tuple.\n\"\"\"\ndef get_coordinates(test_tup):\n\t", "source": "MBPP:630"}
+{"prompt": "\"\"\"\nWrite a function to replace whitespaces with an underscore and vice versa in a given string by using regex.\n\"\"\"\ndef replace_spaces(text):\n\t", "source": "MBPP:631"}
+{"prompt": "\"\"\"\nWrite a python function to move all zeroes to the end of the given list.\n\"\"\"\ndef move_zero(num_list):\n\t", "source": "MBPP:632"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of xor of all pairs of numbers in the given array.\n\"\"\"\ndef pair_OR_Sum(arr,n) : \n\t", "source": "MBPP:633"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of fourth power of first n even natural numbers.\n\"\"\"\ndef even_Power_Sum(n): \n\t", "source": "MBPP:634"}
+{"prompt": "\"\"\"\nWrite a function to push all values into a heap and then pop off the smallest values one at a time.\n\"\"\"\ndef heap_sort(iterable):\n\t", "source": "MBPP:635"}
+{"prompt": "\"\"\"\nWrite a python function to check if roots of a quadratic equation are reciprocal of each other or not.\n\"\"\"\ndef Check_Solution(a,b,c): \n\t", "source": "MBPP:636"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given amount has no profit and no loss\n\"\"\"\ndef noprofit_noloss(actual_cost,sale_amount): \n\t", "source": "MBPP:637"}
+{"prompt": "\"\"\"\nWrite a function to calculate wind chill index.\n\"\"\"\ndef wind_chill(v,t):\n\t", "source": "MBPP:638"}
+{"prompt": "\"\"\"\nWrite a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter.\n\"\"\"\ndef sample_nam(sample_names):\n\t", "source": "MBPP:639"}
+{"prompt": "\"\"\"\nWrite a function to remove the parenthesis area in a string.\n\"\"\"\ndef remove_parenthesis(items):\n\t", "source": "MBPP:640"}
+{"prompt": "\"\"\"\nWrite a function to find the nth nonagonal number.\n\"\"\"\ndef is_nonagonal(n): \n\t", "source": "MBPP:641"}
+{"prompt": "\"\"\"\nWrite a function to remove similar rows from the given tuple matrix.\n\"\"\"\ndef remove_similar_row(test_list):\n\t", "source": "MBPP:642"}
+{"prompt": "\"\"\"\nWrite a function that matches a word containing 'z', not at the start or end of the word.\n\"\"\"\ndef text_match_wordz_middle(text):\n\t", "source": "MBPP:643"}
+{"prompt": "\"\"\"\nWrite a python function to reverse an array upto a given position.\n\"\"\"\ndef reverse_Array_Upto_K(input, k): \n\t", "source": "MBPP:644"}
+{"prompt": "\"\"\"\nWrite a function to find the product of it’s kth index in the given tuples.\n\"\"\"\ndef find_k_product(test_list, K):\n\t", "source": "MBPP:645"}
+{"prompt": "\"\"\"\nWrite a python function to count number of cubes of size k in a cube of size n.\n\"\"\"\ndef No_of_cubes(N,K):\n\t", "source": "MBPP:646"}
+{"prompt": "\"\"\"\nWrite a function to split a string at uppercase letters.\n\"\"\"\ndef split_upperstring(text):\n\t", "source": "MBPP:647"}
+{"prompt": "\"\"\"\nWrite a function to exchange the position of every n-th value with (n+1)th value and (n+1)th value with n-th value in a given list.\n\"\"\"\ndef exchange_elements(lst):\n\t", "source": "MBPP:648"}
+{"prompt": "\"\"\"\nWrite a python function to calculate the sum of the numbers in a list between the indices of a specified range.\n\"\"\"\ndef sum_Range_list(nums, m, n):                                                                                                                                                                                                \n\t", "source": "MBPP:649"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given two arrays are equal or not.\n\"\"\"\ndef are_Equal(arr1,arr2,n,m):\n\t", "source": "MBPP:650"}
+{"prompt": "\"\"\"\nWrite a function to check if one tuple is a subset of another tuple.\n\"\"\"\ndef check_subset(test_tup1, test_tup2):\n\t", "source": "MBPP:651"}
+{"prompt": "\"\"\"\nWrite a function to flatten the given tuple matrix into the tuple list with each tuple representing each column.\n\"\"\"\ndef matrix_to_list(test_list):\n\t", "source": "MBPP:652"}
+{"prompt": "\"\"\"\nWrite a function to group a sequence of key-value pairs into a dictionary of lists using collections module.\n\"\"\"\ndef grouping_dictionary(l):\n\t", "source": "MBPP:653"}
+{"prompt": "\"\"\"\nWrite a function to find the perimeter of a rectangle.\n\"\"\"\ndef rectangle_perimeter(l,b):\n\t", "source": "MBPP:654"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of fifth power of n natural numbers.\n\"\"\"\ndef fifth_Power_Sum(n) : \n\t", "source": "MBPP:655"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum sum of absolute differences of two arrays.\n\"\"\"\ndef find_Min_Sum(a,b,n): \n\t", "source": "MBPP:656"}
+{"prompt": "\"\"\"\nWrite a python function to find the first digit in factorial of a given number.\n\"\"\"\ndef first_Digit(n) : \n\t", "source": "MBPP:657"}
+{"prompt": "\"\"\"\nWrite a function to find the item with maximum occurrences in a given list.\n\"\"\"\ndef max_occurrences(list1):\n\t", "source": "MBPP:658"}
+{"prompt": "\"\"\"\nWrite a python function to print duplicants from a list of integers.\n\"\"\"\ndef Repeat(x): \n\t", "source": "MBPP:659"}
+{"prompt": "\"\"\"\nWrite a python function to choose points from two ranges such that no point lies in both the ranges.\n\"\"\"\ndef find_Points(l1,r1,l2,r2): \n\t", "source": "MBPP:660"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum sum that can be formed which has no three consecutive elements present.\n\"\"\"\ndef max_sum_of_three_consecutive(arr, n): \n\t", "source": "MBPP:661"}
+{"prompt": "\"\"\"\nWrite a function to sort a list in a dictionary.\n\"\"\"\ndef sorted_dict(dict1):\n\t", "source": "MBPP:662"}
+{"prompt": "\"\"\"\nWrite a function to find the largest possible value of k such that k modulo x is y.\n\"\"\"\ndef find_max_val(n, x, y): \n\t", "source": "MBPP:663"}
+{"prompt": "\"\"\"\nWrite a python function to find the average of even numbers till a given even number.\n\"\"\"\ndef average_Even(n) : \n\t", "source": "MBPP:664"}
+{"prompt": "\"\"\"\nWrite a python function to shift first element to the end of given list.\n\"\"\"\ndef move_last(num_list):\n\t", "source": "MBPP:665"}
+{"prompt": "\"\"\"\nWrite a function to count occurrence of a character in a string.\n\"\"\"\ndef count_char(string,char):\n\t", "source": "MBPP:666"}
+{"prompt": "\"\"\"\nWrite a python function to count number of vowels in the string.\n\"\"\"\ndef Check_Vow(string, vowels): \n\t", "source": "MBPP:667"}
+{"prompt": "\"\"\"\nWrite a python function to replace multiple occurence of character by single.\n\"\"\"\ndef replace(string, char): \n\t", "source": "MBPP:668"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given ip address is valid or not using regex.\n\"\"\"\ndef check_IP(Ip): \n\t", "source": "MBPP:669"}
+{"prompt": "\"\"\"\nWrite a python function to check whether a sequence of numbers has a decreasing trend or not.\n\"\"\"\ndef decreasing_trend(nums):\n\t", "source": "MBPP:670"}
+{"prompt": "\"\"\"\nWrite a python function to set the right most unset bit.\n\"\"\"\ndef set_Right_most_Unset_Bit(n): \n\t", "source": "MBPP:671"}
+{"prompt": "\"\"\"\nWrite a function to find maximum of three numbers.\n\"\"\"\ndef max_of_three(num1,num2,num3): \n\t", "source": "MBPP:672"}
+{"prompt": "\"\"\"\nWrite a python function to convert a list of multiple integers into a single integer.\n\"\"\"\ndef convert(list): \n\t", "source": "MBPP:673"}
+{"prompt": "\"\"\"\nWrite a function to remove duplicate words from a given string using collections module.\n\"\"\"\ndef remove_duplicate(string):\n\t", "source": "MBPP:674"}
+{"prompt": "\"\"\"\nWrite a function to add two integers. however, if the sum is between the given range it will return 20.\n\"\"\"\ndef sum_nums(x, y,m,n):\n\t", "source": "MBPP:675"}
+{"prompt": "\"\"\"\nWrite a function to remove everything except alphanumeric characters from the given string by using regex.\n\"\"\"\ndef remove_extra_char(text1):\n\t", "source": "MBPP:676"}
+{"prompt": "\"\"\"\nWrite a function to check if the triangle is valid or not.\n\"\"\"\ndef validity_triangle(a,b,c):\n\t", "source": "MBPP:677"}
+{"prompt": "\"\"\"\nWrite a python function to remove spaces from a given string.\n\"\"\"\ndef remove_spaces(str1):\n\t", "source": "MBPP:678"}
+{"prompt": "\"\"\"\nWrite a function to access dictionary key’s element by index.\n\"\"\"\ndef access_key(ditionary,key):\n\t", "source": "MBPP:679"}
+{"prompt": "\"\"\"\nWrite a python function to check whether a sequence of numbers has an increasing trend or not.\n\"\"\"\ndef increasing_trend(nums):\n\t", "source": "MBPP:680"}
+{"prompt": "\"\"\"\nWrite a python function to find the smallest prime divisor of a number.\n\"\"\"\ndef smallest_Divisor(n): \n\t", "source": "MBPP:681"}
+{"prompt": "\"\"\"\nWrite a function to multiply two lists using map and lambda function.\n\"\"\"\ndef mul_list(nums1,nums2):\n\t", "source": "MBPP:682"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number can be represented by sum of two squares or not.\n\"\"\"\ndef sum_Square(n) : \n\t", "source": "MBPP:683"}
+{"prompt": "\"\"\"\nWrite a python function to count occurences of a character in a repeated string.\n\"\"\"\ndef count_Char(str,x): \n\t", "source": "MBPP:684"}
+{"prompt": "\"\"\"\nWrite a python function to find sum of prime numbers between 1 to n.\n\"\"\"\ndef sum_Of_Primes(n): \n\t", "source": "MBPP:685"}
+{"prompt": "\"\"\"\nWrite a function to find the frequency of each element in the given list.\n\"\"\"\ndef freq_element(test_tup):\n\t", "source": "MBPP:686"}
+{"prompt": "\"\"\"\nWrite a function to find the greatest common divisor (gcd) of two integers by using recursion.\n\"\"\"\ndef recur_gcd(a, b):\n\t", "source": "MBPP:687"}
+{"prompt": "\"\"\"\nWrite a function to get the length of a complex number.\n\"\"\"\ndef len_complex(a,b):\n\t", "source": "MBPP:688"}
+{"prompt": "\"\"\"\n## write a function to find the minimum number of jumps to reach the end of the array for the given array of integers where each element represents the max number of steps that can be made forward from that element. > indented block > indented block\n\"\"\"\ndef min_jumps(arr, n):\n\t", "source": "MBPP:689"}
+{"prompt": "\"\"\"\nWrite a function to multiply consecutive numbers of a given list.\n\"\"\"\ndef mul_consecutive_nums(nums):\n\t", "source": "MBPP:690"}
+{"prompt": "\"\"\"\nWrite a function to group the 1st elements on the basis of 2nd elements in the given tuple list.\n\"\"\"\ndef group_element(test_list):\n\t", "source": "MBPP:691"}
+{"prompt": "\"\"\"\nWrite a python function to find the last two digits in factorial of a given number.\n\"\"\"\ndef last_Two_Digits(N): \n\t", "source": "MBPP:692"}
+{"prompt": "\"\"\"\nWrite a function to remove multiple spaces in a string by using regex.\n\"\"\"\ndef remove_multiple_spaces(text1):\n\t", "source": "MBPP:693"}
+{"prompt": "\"\"\"\nWrite a function to extract unique values from the given dictionary values.\n\"\"\"\ndef extract_unique(test_dict):\n\t", "source": "MBPP:694"}
+{"prompt": "\"\"\"\nWrite a function to check if each element of the second tuple is greater than its corresponding index in the first tuple.\n\"\"\"\ndef check_greater(test_tup1, test_tup2):\n\t", "source": "MBPP:695"}
+{"prompt": "\"\"\"\nWrite a function to zip two given lists of lists.\n\"\"\"\ndef zip_list(list1,list2):  \n\t", "source": "MBPP:696"}
+{"prompt": "\"\"\"\nWrite a function to find number of even elements in the given list using lambda function.\n\"\"\"\ndef count_even(array_nums):\n\t", "source": "MBPP:697"}
+{"prompt": "\"\"\"\nWrite a function to sort dictionary items by tuple product of keys for the given dictionary with tuple keys.\n\"\"\"\ndef sort_dict_item(test_dict):\n\t", "source": "MBPP:698"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum number of swaps required to convert one binary string to another.\n\"\"\"\ndef min_Swaps(str1,str2) : \n\t", "source": "MBPP:699"}
+{"prompt": "\"\"\"\nWrite a function to count the number of elements in a list which are within a specific range.\n\"\"\"\ndef count_range_in_list(li, min, max):\n\t", "source": "MBPP:700"}
+{"prompt": "\"\"\"\nWrite a function to find the equilibrium index of the given array.\n\"\"\"\ndef equilibrium_index(arr):\n\t", "source": "MBPP:701"}
+{"prompt": "\"\"\"\nWrite a function to find the minimum number of elements that should be removed such that amax-amin<=k.\n\"\"\"\ndef removals(arr, n, k):\n\t", "source": "MBPP:702"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given key is present in the dictionary or not.\n\"\"\"\ndef is_key_present(d,x):\n\t", "source": "MBPP:703"}
+{"prompt": "\"\"\"\nWrite a function to calculate the harmonic sum of n-1.\n\"\"\"\ndef harmonic_sum(n):\n\t", "source": "MBPP:704"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of lists by length and value.\n\"\"\"\ndef sort_sublists(list1):\n\t", "source": "MBPP:705"}
+{"prompt": "\"\"\"\nWrite a function to find whether an array is subset of another array.\n\"\"\"\ndef is_subset(arr1, m, arr2, n): \n\t", "source": "MBPP:706"}
+{"prompt": "\"\"\"\nWrite a python function to count the total set bits from 1 to n.\n\"\"\"\ndef count_Set_Bits(n) :  \n\t", "source": "MBPP:707"}
+{"prompt": "\"\"\"\nWrite a python function to convert a string to a list.\n\"\"\"\ndef Convert(string): \n\t", "source": "MBPP:708"}
+{"prompt": "\"\"\"\nWrite a function to count unique keys for each value present in the tuple.\n\"\"\"\ndef get_unique(test_list):\n\t", "source": "MBPP:709"}
+{"prompt": "\"\"\"\nWrite a function to access the initial and last data of the given tuple record.\n\"\"\"\ndef front_and_rear(test_tup):\n\t", "source": "MBPP:710"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the product of digits of a number at even and odd places is equal or not.\n\"\"\"\ndef product_Equal(n): \n\t", "source": "MBPP:711"}
+{"prompt": "\"\"\"\nWrite a function to remove duplicates from a list of lists.\n\"\"\"\ndef remove_duplicate(list1):\n\t", "source": "MBPP:712"}
+{"prompt": "\"\"\"\nWrite a function to check if the given tuple contains all valid values or not.\n\"\"\"\ndef check_valid(test_tup):\n\t", "source": "MBPP:713"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of distinct power of prime factor of given number.\n\"\"\"\ndef count_Fac(n):  \n\t", "source": "MBPP:714"}
+{"prompt": "\"\"\"\nWrite a function to convert the given string of integers into a tuple.\n\"\"\"\ndef str_to_tuple(test_str):\n\t", "source": "MBPP:715"}
+{"prompt": "\"\"\"\nWrite a function to find the perimeter of a rombus.\n\"\"\"\ndef rombus_perimeter(a):\n\t", "source": "MBPP:716"}
+{"prompt": "\"\"\"\nWrite a function to calculate the standard deviation.\n\"\"\"\ndef sd_calc(data):\n\t", "source": "MBPP:717"}
+{"prompt": "\"\"\"\nWrite a function to create a list taking alternate elements from another given list.\n\"\"\"\ndef alternate_elements(list1):\n\t", "source": "MBPP:718"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an a followed by zero or more b's.\n\"\"\"\ndef text_match(text):\n\t", "source": "MBPP:719"}
+{"prompt": "\"\"\"\nWrite a function to add a dictionary to the tuple.\n\"\"\"\ndef add_dict_to_tuple(test_tup, test_dict):\n\t", "source": "MBPP:720"}
+{"prompt": "\"\"\"\nWrite a function to find a path with the maximum average over all existing paths for the given square matrix of size n*n.\n\"\"\"\ndef maxAverageOfPath(cost, N): \n\t", "source": "MBPP:721"}
+{"prompt": "\"\"\"\nWrite a function to filter the height and width of students which are stored in a dictionary.\n\"\"\"\ndef filter_data(students,h,w):\n\t", "source": "MBPP:722"}
+{"prompt": "\"\"\"\nWrite a function to count the same pair in two given lists using map function.\n\"\"\"\ndef count_same_pair(nums1, nums2):\n\t", "source": "MBPP:723"}
+{"prompt": "\"\"\"\nWrite a function to calculate the sum of all digits of the base to the specified power.\n\"\"\"\ndef power_base_sum(base, power):\n\t", "source": "MBPP:724"}
+{"prompt": "\"\"\"\nWrite a function to extract values between quotation marks of the given string by using regex.\n\"\"\"\ndef extract_quotation(text1):\n\t", "source": "MBPP:725"}
+{"prompt": "\"\"\"\nWrite a function to multiply the adjacent elements of the given tuple.\n\"\"\"\ndef multiply_elements(test_tup):\n\t", "source": "MBPP:726"}
+{"prompt": "\"\"\"\nWrite a function to remove all characters except letters and numbers using regex\n\"\"\"\ndef remove_char(S):\n\t", "source": "MBPP:727"}
+{"prompt": "\"\"\"\nWrite a function to sum elements in two lists.\n\"\"\"\ndef sum_list(lst1,lst2):\n\t", "source": "MBPP:728"}
+{"prompt": "\"\"\"\nWrite a function to add two lists using map and lambda function.\n\"\"\"\ndef add_list(nums1,nums2):\n\t", "source": "MBPP:729"}
+{"prompt": "\"\"\"\nWrite a function to remove consecutive duplicates of a given list.\n\"\"\"\ndef consecutive_duplicates(nums):\n\t", "source": "MBPP:730"}
+{"prompt": "\"\"\"\nWrite a function to find the lateral surface area of a cone.\n\"\"\"\ndef lateralsurface_cone(r,h):\n\t", "source": "MBPP:731"}
+{"prompt": "\"\"\"\nWrite a function to replace all occurrences of spaces, commas, or dots with a colon.\n\"\"\"\ndef replace_specialchar(text):\n\t", "source": "MBPP:732"}
+{"prompt": "\"\"\"\nWrite a function to find the index of the first occurrence of a given number in a sorted array.\n\"\"\"\ndef find_first_occurrence(A, x):\n\t", "source": "MBPP:733"}
+{"prompt": "\"\"\"\nWrite a python function to find sum of products of all possible subarrays.\n\"\"\"\ndef sum_Of_Subarray_Prod(arr,n):\n\t", "source": "MBPP:734"}
+{"prompt": "\"\"\"\nWrite a python function to toggle bits of the number except the first and the last bit.\n\"\"\"\ndef toggle_middle_bits(n): \n\t", "source": "MBPP:735"}
+{"prompt": "\"\"\"\nWrite a function to locate the left insertion point for a specified value in sorted order.\n\"\"\"\ndef left_insertion(a, x):\n\t", "source": "MBPP:736"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given string is starting with a vowel or not using regex.\n\"\"\"\ndef check_str(string): \n\t", "source": "MBPP:737"}
+{"prompt": "\"\"\"\nWrite a function to calculate the geometric sum of n-1.\n\"\"\"\ndef geometric_sum(n):\n\t", "source": "MBPP:738"}
+{"prompt": "\"\"\"\nWrite a python function to find the index of smallest triangular number with n digits.\n\"\"\"\ndef find_Index(n): \n\t", "source": "MBPP:739"}
+{"prompt": "\"\"\"\nWrite a function to convert the given tuple to a key-value dictionary using adjacent elements.\n\"\"\"\ndef tuple_to_dict(test_tup):\n\t", "source": "MBPP:740"}
+{"prompt": "\"\"\"\nWrite a python function to check whether all the characters are same or not.\n\"\"\"\ndef all_Characters_Same(s) :\n\t", "source": "MBPP:741"}
+{"prompt": "\"\"\"\nWrite a function to caluclate the area of a tetrahedron.\n\"\"\"\ndef area_tetrahedron(side):\n\t", "source": "MBPP:742"}
+{"prompt": "\"\"\"\nWrite a function to rotate a given list by specified number of items to the right direction.\n\"\"\"\ndef rotate_right(list1,m,n):\n\t", "source": "MBPP:743"}
+{"prompt": "\"\"\"\nWrite a function to check if the given tuple has any none value or not.\n\"\"\"\ndef check_none(test_tup):\n\t", "source": "MBPP:744"}
+{"prompt": "\"\"\"\nWrite a function to find numbers within a given range where every number is divisible by every digit it contains.\n\"\"\"\ndef divisible_by_digits(startnum, endnum):\n\t", "source": "MBPP:745"}
+{"prompt": "\"\"\"\nWrite a function to find area of a sector.\n\"\"\"\ndef sector_area(r,a):\n\t", "source": "MBPP:746"}
+{"prompt": "\"\"\"\nWrite a function to find the longest common subsequence for the given three string sequence.\n\"\"\"\ndef lcs_of_three(X, Y, Z, m, n, o): \n\t", "source": "MBPP:747"}
+{"prompt": "\"\"\"\nWrite a function to put spaces between words starting with capital letters in a given string by using regex.\n\"\"\"\ndef capital_words_spaces(str1):\n\t", "source": "MBPP:748"}
+{"prompt": "\"\"\"\nWrite a function to sort a given list of strings of numbers numerically.\n\"\"\"\ndef sort_numeric_strings(nums_str):\n\t", "source": "MBPP:749"}
+{"prompt": "\"\"\"\nWrite a function to add the given tuple to the given list.\n\"\"\"\ndef add_tuple(test_list, test_tup):\n\t", "source": "MBPP:750"}
+{"prompt": "\"\"\"\nWrite a function to check if the given array represents min heap or not.\n\"\"\"\ndef check_min_heap(arr, i):\n\t", "source": "MBPP:751"}
+{"prompt": "\"\"\"\nWrite a function to find the nth jacobsthal number.\n\"\"\"\ndef jacobsthal_num(n): \n\t", "source": "MBPP:752"}
+{"prompt": "\"\"\"\nWrite a function to find minimum k records from tuple list.\n\"\"\"\ndef min_k(test_list, K):\n\t", "source": "MBPP:753"}
+{"prompt": "\"\"\"\nWrite a function to find common index elements from three lists.\n\"\"\"\ndef extract_index_list(l1, l2, l3):\n\t", "source": "MBPP:754"}
+{"prompt": "\"\"\"\nWrite a function to find the second smallest number in a list.\n\"\"\"\ndef second_smallest(numbers):\n\t", "source": "MBPP:755"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an a followed by zero or one 'b'.\n\"\"\"\ndef text_match_zero_one(text):\n\t", "source": "MBPP:756"}
+{"prompt": "\"\"\"\nWrite a function to count the pairs of reverse strings in the given string list.\n\"\"\"\ndef count_reverse_pairs(test_list):\n\t", "source": "MBPP:757"}
+{"prompt": "\"\"\"\nWrite a function to count number of unique lists within a list.\n\"\"\"\ndef unique_sublists(list1):\n\t", "source": "MBPP:758"}
+{"prompt": "\"\"\"\nWrite a function to check a decimal with a precision of 2.\n\"\"\"\ndef is_decimal(num):\n\t", "source": "MBPP:759"}
+{"prompt": "\"\"\"\nWrite a python function to check whether an array contains only one distinct element or not.\n\"\"\"\ndef unique_Element(arr,n):\n\t", "source": "MBPP:760"}
+{"prompt": "\"\"\"\nWrite a function to caluclate arc length of an angle.\n\"\"\"\ndef arc_length(d,a):\n\t", "source": "MBPP:761"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given month number contains 30 days or not.\n\"\"\"\ndef check_monthnumber_number(monthnum3):\n\t", "source": "MBPP:762"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum difference between any two elements in a given array.\n\"\"\"\ndef find_Min_Diff(arr,n): \n\t", "source": "MBPP:763"}
+{"prompt": "\"\"\"\nWrite a python function to count numeric values in a given string.\n\"\"\"\ndef number_ctr(str):\n\t", "source": "MBPP:764"}
+{"prompt": "\"\"\"\nWrite a function to find nth polite number.\n\"\"\"\ndef is_polite(n): \n\t", "source": "MBPP:765"}
+{"prompt": "\"\"\"\nWrite a function to iterate over all pairs of consecutive items in a given list.\n\"\"\"\ndef pair_wise(l1):\n\t", "source": "MBPP:766"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of pairs whose sum is equal to ‘sum’.\n\"\"\"\ndef get_Pairs_Count(arr,n,sum):\n\t", "source": "MBPP:767"}
+{"prompt": "\"\"\"\nWrite a python function to check for odd parity of a given number.\n\"\"\"\ndef check_Odd_Parity(x): \n\t", "source": "MBPP:768"}
+{"prompt": "\"\"\"\nWrite a python function to get the difference between two lists.\n\"\"\"\ndef Diff(li1,li2):\n\t", "source": "MBPP:769"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of fourth power of first n odd natural numbers.\n\"\"\"\ndef odd_Num_Sum(n) : \n\t", "source": "MBPP:770"}
+{"prompt": "\"\"\"\nWrite a function to check if the given expression is balanced or not.\n\"\"\"\ndef check_expression(exp):\n\t", "source": "MBPP:771"}
+{"prompt": "\"\"\"\nWrite a function to remove all the words with k length in the given string.\n\"\"\"\ndef remove_length(test_str, K):\n\t", "source": "MBPP:772"}
+{"prompt": "\"\"\"\nWrite a function to find the occurrence and position of the substrings within a string.\n\"\"\"\ndef occurance_substring(text,pattern):\n\t", "source": "MBPP:773"}
+{"prompt": "\"\"\"\nWrite a function to check if the string is a valid email address or not using regex.\n\"\"\"\ndef check_email(email): \n\t", "source": "MBPP:774"}
+{"prompt": "\"\"\"\nWrite a python function to check whether every odd index contains odd numbers of a given list.\n\"\"\"\ndef odd_position(nums):\n\t", "source": "MBPP:775"}
+{"prompt": "\"\"\"\nWrite a function to count those characters which have vowels as their neighbors in the given string.\n\"\"\"\ndef count_vowels(test_str):\n\t", "source": "MBPP:776"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of non-repeated elements in a given array.\n\"\"\"\ndef find_Sum(arr,n): \n\t", "source": "MBPP:777"}
+{"prompt": "\"\"\"\nWrite a function to pack consecutive duplicates of a given list elements into sublists.\n\"\"\"\ndef pack_consecutive_duplicates(list1):\n\t", "source": "MBPP:778"}
+{"prompt": "\"\"\"\nWrite a function to count the number of unique lists within a list.\n\"\"\"\ndef unique_sublists(list1):\n\t", "source": "MBPP:779"}
+{"prompt": "\"\"\"\nWrite a function to find the combinations of sums with tuples in the given tuple list.\n\"\"\"\ndef find_combinations(test_list):\n\t", "source": "MBPP:780"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the count of divisors is even or odd.\n\"\"\"\ndef count_Divisors(n) : \n\t", "source": "MBPP:781"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of all odd length subarrays.\n\"\"\"\ndef Odd_Length_Sum(arr):\n\t", "source": "MBPP:782"}
+{"prompt": "\"\"\"\nWrite a function to convert rgb color to hsv color.\n\"\"\"\ndef rgb_to_hsv(r, g, b):\n\t", "source": "MBPP:783"}
+{"prompt": "\"\"\"\nWrite a function to find the product of first even and odd number of a given list.\n\"\"\"\ndef mul_even_odd(list1):\n\t", "source": "MBPP:784"}
+{"prompt": "\"\"\"\nWrite a function to convert tuple string to integer tuple.\n\"\"\"\ndef tuple_str_int(test_str):\n\t", "source": "MBPP:785"}
+{"prompt": "\"\"\"\nWrite a function to locate the right insertion point for a specified value in sorted order.\n\"\"\"\ndef right_insertion(a, x):\n\t", "source": "MBPP:786"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an a followed by three 'b'.\n\"\"\"\ndef text_match_three(text):\n\t", "source": "MBPP:787"}
+{"prompt": "\"\"\"\nWrite a function to create a new tuple from the given string and list.\n\"\"\"\ndef new_tuple(test_list, test_str):\n\t", "source": "MBPP:788"}
+{"prompt": "\"\"\"\nWrite a function to calculate the perimeter of a regular polygon.\n\"\"\"\ndef perimeter_polygon(s,l):\n\t", "source": "MBPP:789"}
+{"prompt": "\"\"\"\nWrite a python function to check whether every even index contains even numbers of a given list.\n\"\"\"\ndef even_position(nums):\n\t", "source": "MBPP:790"}
+{"prompt": "\"\"\"\nWrite a function to remove the nested record from the given tuple.\n\"\"\"\ndef remove_nested(test_tup):\n\t", "source": "MBPP:791"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of lists in a given number of lists.\n\"\"\"\ndef count_list(input_list): \n\t", "source": "MBPP:792"}
+{"prompt": "\"\"\"\nWrite a python function to find the last position of an element in a sorted array.\n\"\"\"\ndef last(arr,x,n):\n\t", "source": "MBPP:793"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an 'a' followed by anything, ending in 'b'.\n\"\"\"\ndef text_starta_endb(text):\n\t", "source": "MBPP:794"}
+{"prompt": "\"\"\"\nWrite a function to find the n - cheap price items from a given dataset using heap queue algorithm.\n\"\"\"\ndef cheap_items(items,n):\n\t", "source": "MBPP:795"}
+{"prompt": "\"\"\"\nWrite function to find the sum of all items in the given dictionary.\n\"\"\"\ndef return_sum(dict):\n\t", "source": "MBPP:796"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of all odd natural numbers within the range l and r.\n\"\"\"\ndef sum_in_Range(l,r): \n\t", "source": "MBPP:797"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of an array.\n\"\"\"\ndef _sum(arr):  \n\t", "source": "MBPP:798"}
+{"prompt": "\"\"\"\nWrite a python function to left rotate the bits of a given number.\n\"\"\"\ndef left_Rotate(n,d):   \n\t", "source": "MBPP:799"}
+{"prompt": "\"\"\"\nWrite a function to remove all whitespaces from a string.\n\"\"\"\ndef remove_all_spaces(text):\n\t", "source": "MBPP:800"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of equal numbers from three given integers.\n\"\"\"\ndef test_three_equal(x,y,z):\n\t", "source": "MBPP:801"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of rotations required to generate a sorted array.\n\"\"\"\ndef count_Rotation(arr,n):   \n\t", "source": "MBPP:802"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number is a perfect square or not.\n\"\"\"\ndef is_Perfect_Square(n) :\n\t", "source": "MBPP:803"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the product of numbers is even or not.\n\"\"\"\ndef is_Product_Even(arr,n): \n\t", "source": "MBPP:804"}
+{"prompt": "\"\"\"\nWrite a function to find the list in a list of lists whose sum of elements is the highest.\n\"\"\"\ndef max_sum_list(lists):\n\t", "source": "MBPP:805"}
+{"prompt": "\"\"\"\nWrite a function to find maximum run of uppercase characters in the given string.\n\"\"\"\ndef max_run_uppercase(test_str):\n\t", "source": "MBPP:806"}
+{"prompt": "\"\"\"\nWrite a python function to find the first odd number in a given list of numbers.\n\"\"\"\ndef first_odd(nums):\n\t", "source": "MBPP:807"}
+{"prompt": "\"\"\"\nWrite a function to check if the given tuples contain the k or not.\n\"\"\"\ndef check_K(test_tup, K):\n\t", "source": "MBPP:808"}
+{"prompt": "\"\"\"\nWrite a function to check if each element of second tuple is smaller than its corresponding index in first tuple.\n\"\"\"\ndef check_smaller(test_tup1, test_tup2):\n\t", "source": "MBPP:809"}
+{"prompt": "\"\"\"\nWrite a function to iterate over elements repeating each as many times as its count.\n\"\"\"\ndef count_variable(a,b,c,d):\n\t", "source": "MBPP:810"}
+{"prompt": "\"\"\"\nWrite a function to check if two lists of tuples are identical or not.\n\"\"\"\ndef check_identical(test_list1, test_list2):\n\t", "source": "MBPP:811"}
+{"prompt": "\"\"\"\nWrite a function to abbreviate 'road' as 'rd.' in a given string.\n\"\"\"\ndef road_rd(street):\n\t", "source": "MBPP:812"}
+{"prompt": "\"\"\"\nWrite a function to find length of the string.\n\"\"\"\ndef string_length(str1):\n\t", "source": "MBPP:813"}
+{"prompt": "\"\"\"\nWrite a function to find the area of a rombus.\n\"\"\"\ndef rombus_area(p,q):\n\t", "source": "MBPP:814"}
+{"prompt": "\"\"\"\nWrite a function to sort the given array without using any sorting algorithm. the given array consists of only 0, 1, and 2.\n\"\"\"\ndef sort_by_dnf(arr, n):\n\t", "source": "MBPP:815"}
+{"prompt": "\"\"\"\nWrite a function to clear the values of the given tuples.\n\"\"\"\ndef clear_tuple(test_tup):\n\t", "source": "MBPP:816"}
+{"prompt": "\"\"\"\nWrite a function to find numbers divisible by m or n from a list of numbers using lambda function.\n\"\"\"\ndef div_of_nums(nums,m,n):\n\t", "source": "MBPP:817"}
+{"prompt": "\"\"\"\nWrite a python function to count lower case letters in a given string.\n\"\"\"\ndef lower_ctr(str):\n\t", "source": "MBPP:818"}
+{"prompt": "\"\"\"\nWrite a function to count the frequency of consecutive duplicate elements in a given list of numbers.\n\"\"\"\ndef count_duplic(lists):\n\t", "source": "MBPP:819"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given month number contains 28 days or not.\n\"\"\"\ndef check_monthnum_number(monthnum1):\n\t", "source": "MBPP:820"}
+{"prompt": "\"\"\"\nWrite a function to merge two dictionaries into a single expression.\n\"\"\"\ndef merge_dictionaries(dict1,dict2):\n\t", "source": "MBPP:821"}
+{"prompt": "\"\"\"\nWrite a function to return true if the password is valid.\n\"\"\"\ndef pass_validity(p):\n\t", "source": "MBPP:822"}
+{"prompt": "\"\"\"\nWrite a function to check if the given string starts with a substring using regex.\n\"\"\"\ndef check_substring(string, sample) : \n\t", "source": "MBPP:823"}
+{"prompt": "\"\"\"\nWrite a python function to remove even numbers from a given list.\n\"\"\"\ndef remove_even(l):\n\t", "source": "MBPP:824"}
+{"prompt": "\"\"\"\nWrite a python function to access multiple elements of specified index from a given list.\n\"\"\"\ndef access_elements(nums, list_index):\n\t", "source": "MBPP:825"}
+{"prompt": "\"\"\"\nWrite a python function to find the type of triangle from the given sides.\n\"\"\"\ndef check_Type_Of_Triangle(a,b,c): \n\t", "source": "MBPP:826"}
+{"prompt": "\"\"\"\nWrite a function to sum a specific column of a list in a given list of lists.\n\"\"\"\ndef sum_column(list1, C):\n\t", "source": "MBPP:827"}
+{"prompt": "\"\"\"\nWrite a function to count alphabets,digits and special charactes in a given string.\n\"\"\"\ndef count_alpha_dig_spl(string):\n\t", "source": "MBPP:828"}
+{"prompt": "\"\"\"\nWrite a function to find out the second most repeated (or frequent) string in the given sequence.\n\"\"\"\ndef second_frequent(input): \n\t", "source": "MBPP:829"}
+{"prompt": "\"\"\"\nWrite a function to round up a number to specific digits.\n\"\"\"\ndef round_up(a, digits):\n\t", "source": "MBPP:830"}
+{"prompt": "\"\"\"\nWrite a python function to count equal element pairs from the given array.\n\"\"\"\ndef count_Pairs(arr,n): \n\t", "source": "MBPP:831"}
+{"prompt": "\"\"\"\nWrite a function to extract the maximum numeric value from a string by using regex.\n\"\"\"\ndef extract_max(input): \n\t", "source": "MBPP:832"}
+{"prompt": "\"\"\"\nWrite a function to get dictionary keys as a list.\n\"\"\"\ndef get_key(dict): \n\t", "source": "MBPP:833"}
+{"prompt": "\"\"\"\nWrite a function to generate a square matrix filled with elements from 1 to n raised to the power of 2 in spiral order.\n\"\"\"\ndef generate_matrix(n):\n\t", "source": "MBPP:834"}
+{"prompt": "\"\"\"\nWrite a python function to find the slope of a line.\n\"\"\"\ndef slope(x1,y1,x2,y2): \n\t", "source": "MBPP:835"}
+{"prompt": "\"\"\"\nWrite a function to find length of the subarray having maximum sum.\n\"\"\"\ndef max_sub_array_sum(a,size): \n\t", "source": "MBPP:836"}
+{"prompt": "\"\"\"\nWrite a python function to find the cube sum of first n odd natural numbers.\n\"\"\"\ndef cube_Sum(n): \n\t", "source": "MBPP:837"}
+{"prompt": "\"\"\"\nWrite a python function to find minimum number swaps required to make two binary strings equal.\n\"\"\"\ndef min_Swaps(s1,s2) :  \n\t", "source": "MBPP:838"}
+{"prompt": "\"\"\"\nWrite a function to sort the tuples alphabetically by the first item of each tuple.\n\"\"\"\ndef sort_tuple(tup): \n\t", "source": "MBPP:839"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the roots of a quadratic equation are numerically equal but opposite in sign or not.\n\"\"\"\ndef Check_Solution(a,b,c):  \n\t", "source": "MBPP:840"}
+{"prompt": "\"\"\"\nWrite a function to count the number of inversions in the given array.\n\"\"\"\ndef get_inv_count(arr, n): \n\t", "source": "MBPP:841"}
+{"prompt": "\"\"\"\nWrite a function to find the number which occurs for odd number of times in the given array.\n\"\"\"\ndef get_odd_occurence(arr, arr_size):\n\t", "source": "MBPP:842"}
+{"prompt": "\"\"\"\nWrite a function to find the nth super ugly number from a given prime list of size k using heap queue algorithm.\n\"\"\"\ndef nth_super_ugly_number(n, primes):\n\t", "source": "MBPP:843"}
+{"prompt": "\"\"\"\nWrite a python function to find the kth element in an array containing odd elements first and then even elements.\n\"\"\"\ndef get_Number(n, k): \n\t", "source": "MBPP:844"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of digits in factorial of a given number.\n\"\"\"\ndef find_Digits(n): \n\t", "source": "MBPP:845"}
+{"prompt": "\"\"\"\nWrite a function to find the minimum number of platforms required for a railway/bus station.\n\"\"\"\ndef find_platform(arr, dep, n): \n\t", "source": "MBPP:846"}
+{"prompt": "\"\"\"\nWrite a python function to copy a list from a singleton tuple.\n\"\"\"\ndef lcopy(xs):\n  return xs[:]\n\n\t", "source": "MBPP:847"}
+{"prompt": "\"\"\"\nWrite a function to find the area of a trapezium.\n\"\"\"\ndef area_trapezium(base1,base2,height):\n\t", "source": "MBPP:848"}
+{"prompt": "\"\"\"\nWrite a python function to find sum of all prime divisors of a given number.\n\"\"\"\ndef Sum(N): \n\t", "source": "MBPP:849"}
+{"prompt": "\"\"\"\nWrite a function to check if a triangle of positive area is possible with the given angles.\n\"\"\"\ndef is_triangleexists(a,b,c): \n\t", "source": "MBPP:850"}
+{"prompt": "\"\"\"\nWrite a python function to find sum of inverse of divisors.\n\"\"\"\ndef Sum_of_Inverse_Divisors(N,Sum): \n\t", "source": "MBPP:851"}
+{"prompt": "\"\"\"\nWrite a python function to remove negative numbers from a list.\n\"\"\"\ndef remove_negs(num_list): \n\t", "source": "MBPP:852"}
+{"prompt": "\"\"\"\nWrite a python function to find sum of odd factors of a number.\n\"\"\"\ndef sum_of_odd_Factors(n): \n\t", "source": "MBPP:853"}
+{"prompt": "\"\"\"\nWrite a function which accepts an arbitrary list and converts it to a heap using heap queue algorithm.\n\"\"\"\ndef raw_heap(rawheap):\n\t", "source": "MBPP:854"}
+{"prompt": "\"\"\"\nWrite a python function to check for even parity of a given number.\n\"\"\"\ndef check_Even_Parity(x): \n\t", "source": "MBPP:855"}
+{"prompt": "\"\"\"\nWrite a python function to find minimum adjacent swaps required to sort binary array.\n\"\"\"\ndef find_Min_Swaps(arr,n) : \n\t", "source": "MBPP:856"}
+{"prompt": "\"\"\"\nWrite a function to list out the list of given strings individually using map function.\n\"\"\"\ndef listify_list(list1):\n\t", "source": "MBPP:857"}
+{"prompt": "\"\"\"\nWrite a function to count number of lists in a given list of lists and square the count.\n\"\"\"\ndef count_list(input_list): \n\t", "source": "MBPP:858"}
+{"prompt": "\"\"\"\nWrite a function to generate all sublists of a given list.\n\"\"\"\ndef sub_lists(my_list):\n\t", "source": "MBPP:859"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given string is ending with only alphanumeric characters or not using regex.\n\"\"\"\ndef check_alphanumeric(string): \n\t", "source": "MBPP:860"}
+{"prompt": "\"\"\"\nWrite a function to find all anagrams of a string in a given list of strings using lambda function.\n\"\"\"\ndef anagram_lambda(texts,str):\n\t", "source": "MBPP:861"}
+{"prompt": "\"\"\"\nWrite a function to find the occurrences of n most common words in a given text.\n\"\"\"\ndef n_common_words(text,n):\n\t", "source": "MBPP:862"}
+{"prompt": "\"\"\"\nWrite a function to find the length of the longest sub-sequence such that elements in the subsequences are consecutive integers.\n\"\"\"\ndef find_longest_conseq_subseq(arr, n): \n\t", "source": "MBPP:863"}
+{"prompt": "\"\"\"\nWrite a function to find palindromes in a given list of strings using lambda function.\n\"\"\"\ndef palindrome_lambda(texts):\n\t", "source": "MBPP:864"}
+{"prompt": "\"\"\"\nWrite a function to print n-times a list using map function.\n\"\"\"\ndef ntimes_list(nums,n):\n\t", "source": "MBPP:865"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given month name contains 31 days or not.\n\"\"\"\ndef check_monthnumb(monthname2):\n\t", "source": "MBPP:866"}
+{"prompt": "\"\"\"\nWrite a python function to add a minimum number such that the sum of array becomes even.\n\"\"\"\ndef min_Num(arr,n):  \n\t", "source": "MBPP:867"}
+{"prompt": "\"\"\"\nWrite a python function to find the length of the last word in a given string.\n\"\"\"\ndef length_Of_Last_Word(a): \n\t", "source": "MBPP:868"}
+{"prompt": "\"\"\"\nWrite a function to remove sublists from a given list of lists, which are outside a given range.\n\"\"\"\ndef remove_list_range(list1, leftrange, rigthrange):\n\t", "source": "MBPP:869"}
+{"prompt": "\"\"\"\nWrite a function to calculate the sum of the positive numbers of a given list of numbers using lambda function.\n\"\"\"\ndef sum_positivenum(nums):\n\t", "source": "MBPP:870"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given strings are rotations of each other or not.\n\"\"\"\ndef are_Rotations(string1,string2): \n\t", "source": "MBPP:871"}
+{"prompt": "\"\"\"\nWrite a function to check if a nested list is a subset of another nested list.\n\"\"\"\ndef check_subset(list1,list2): \n\t", "source": "MBPP:872"}
+{"prompt": "\"\"\"\nWrite a function to solve the fibonacci sequence using recursion.\n\"\"\"\ndef fibonacci(n):\n\t", "source": "MBPP:873"}
+{"prompt": "\"\"\"\nWrite a python function to check if the string is a concatenation of another string.\n\"\"\"\ndef check_Concat(str1,str2):\n\t", "source": "MBPP:874"}
+{"prompt": "\"\"\"\nWrite a function to find the minimum difference in the tuple pairs of given tuples.\n\"\"\"\ndef min_difference(test_list):\n\t", "source": "MBPP:875"}
+{"prompt": "\"\"\"\nWrite a python function to find lcm of two positive integers.\n\"\"\"\ndef lcm(x, y):\n\t", "source": "MBPP:876"}
+{"prompt": "\"\"\"\nWrite a python function to sort the given string.\n\"\"\"\ndef sort_String(str) : \n\t", "source": "MBPP:877"}
+{"prompt": "\"\"\"\nWrite a function to check if the given tuple contains only k elements.\n\"\"\"\ndef check_tuples(test_tuple, K):\n\t", "source": "MBPP:878"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an 'a' followed by anything, ending in 'b' by using regex.\n\"\"\"\ndef text_match(text):\n\t", "source": "MBPP:879"}
+{"prompt": "\"\"\"\nWrite a python function to find number of solutions in quadratic equation.\n\"\"\"\ndef Check_Solution(a,b,c) : \n\t", "source": "MBPP:880"}
+{"prompt": "\"\"\"\nWrite a function to find the sum of first even and odd number of a given list.\n\"\"\"\ndef sum_even_odd(list1):\n\t", "source": "MBPP:881"}
+{"prompt": "\"\"\"\nWrite a function to caluclate perimeter of a parallelogram.\n\"\"\"\ndef parallelogram_perimeter(b,h):\n\t", "source": "MBPP:882"}
+{"prompt": "\"\"\"\nWrite a function to find numbers divisible by m and n from a list of numbers using lambda function.\n\"\"\"\ndef div_of_nums(nums,m,n):\n\t", "source": "MBPP:883"}
+{"prompt": "\"\"\"\nWrite a python function to check whether all the bits are within a given range or not.\n\"\"\"\ndef all_Bits_Set_In_The_Given_Range(n,l,r): \n\t", "source": "MBPP:884"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the two given strings are isomorphic to each other or not.\n\"\"\"\ndef is_Isomorphic(str1,str2):          \n\t", "source": "MBPP:885"}
+{"prompt": "\"\"\"\nWrite a function to add all the numbers in a list and divide it with the length of the list.\n\"\"\"\ndef sum_num(numbers):\n\t", "source": "MBPP:886"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number is odd or not using bitwise operator.\n\"\"\"\ndef is_odd(n) : \n\t", "source": "MBPP:887"}
+{"prompt": "\"\"\"\nWrite a function to substract the elements of the given nested tuples.\n\"\"\"\ndef substract_elements(test_tup1, test_tup2):\n\t", "source": "MBPP:888"}
+{"prompt": "\"\"\"\nWrite a function to reverse each list in a given list of lists.\n\"\"\"\ndef reverse_list_lists(lists):\n\t", "source": "MBPP:889"}
+{"prompt": "\"\"\"\nWrite a python function to find the index of an extra element present in one sorted array.\n\"\"\"\ndef find_Extra(arr1,arr2,n) : \n\t", "source": "MBPP:890"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given two numbers have same number of digits or not.\n\"\"\"\ndef same_Length(A,B): \n\t", "source": "MBPP:891"}
+{"prompt": "\"\"\"\nWrite a function to remove multiple spaces in a string.\n\"\"\"\ndef remove_spaces(text):\n\t", "source": "MBPP:892"}
+{"prompt": "\"\"\"\nWrite a python function to get the last element of each sublist.\n\"\"\"\ndef Extract(lst): \n\t", "source": "MBPP:893"}
+{"prompt": "\"\"\"\nWrite a function to convert the given string of float type into tuple.\n\"\"\"\ndef float_to_tuple(test_str):\n\t", "source": "MBPP:894"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum sum of subsequences of given array with no adjacent elements.\n\"\"\"\ndef max_sum_subseq(A):\n\t", "source": "MBPP:895"}
+{"prompt": "\"\"\"\nWrite a function to sort a list in increasing order by the last element in each tuple from a given list of non-empty tuples.\n\"\"\"\ndef sort_list_last(tuples):\n\t", "source": "MBPP:896"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the word is present in a given sentence or not.\n\"\"\"\ndef is_Word_Present(sentence,word): \n\t", "source": "MBPP:897"}
+{"prompt": "\"\"\"\nWrite a function to extract specified number of elements from a given list, which follow each other continuously.\n\"\"\"\ndef extract_elements(numbers, n):\n\t", "source": "MBPP:898"}
+{"prompt": "\"\"\"\nWrite a python function to check whether an array can be sorted or not by picking only the corner elements.\n\"\"\"\ndef check(arr,n): \n\t", "source": "MBPP:899"}
+{"prompt": "\"\"\"\nWrite a function where a string will start with a specific number.\n\"\"\"\ndef match_num(string):\n\t", "source": "MBPP:900"}
+{"prompt": "\"\"\"\nWrite a function to find the smallest multiple of the first n numbers.\n\"\"\"\ndef smallest_multiple(n):\n\t", "source": "MBPP:901"}
+{"prompt": "\"\"\"\nWrite a function to combine two dictionaries by adding values for common keys.\n\"\"\"\ndef add_dict(d1,d2):\n\t", "source": "MBPP:902"}
+{"prompt": "\"\"\"\nWrite a python function to count the total unset bits from 1 to n.\n\"\"\"\ndef count_Unset_Bits(n) :  \n\t", "source": "MBPP:903"}
+{"prompt": "\"\"\"\nWrite a function to return true if the given number is even else return false.\n\"\"\"\ndef even_num(x):\n\t", "source": "MBPP:904"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of squares of binomial co-efficients.\n\"\"\"\ndef sum_of_square(n): \n\t", "source": "MBPP:905"}
+{"prompt": "\"\"\"\nWrite a function to extract year, month and date from a url by using regex.\n\"\"\"\ndef extract_date(url):\n\t", "source": "MBPP:906"}
+{"prompt": "\"\"\"\nWrite a function to print the first n lucky numbers.\n\"\"\"\ndef lucky_num(n):\n\t", "source": "MBPP:907"}
+{"prompt": "\"\"\"\nWrite a function to find the fixed point in the given array.\n\"\"\"\ndef find_fixed_point(arr, n): \n\t", "source": "MBPP:908"}
+{"prompt": "\"\"\"\nWrite a function to find the previous palindrome of a specified number.\n\"\"\"\ndef previous_palindrome(num):\n\t", "source": "MBPP:909"}
+{"prompt": "\"\"\"\nWrite a function to validate a gregorian date.\n\"\"\"\ndef check_date(m, d, y):\n\t", "source": "MBPP:910"}
+{"prompt": "\"\"\"\nWrite a function to compute maximum product of three numbers of a given array of integers using heap queue algorithm.\n\"\"\"\ndef maximum_product(nums):\n\t", "source": "MBPP:911"}
+{"prompt": "\"\"\"\nWrite a function to find ln, m lobb number.\n\"\"\"\n)\n\t", "source": "MBPP:912"}
+{"prompt": "\"\"\"\nWrite a function to check for a number at the end of a string.\n\"\"\"\ndef end_num(string):\n\t", "source": "MBPP:913"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given string is made up of two alternating characters or not.\n\"\"\"\ndef is_Two_Alter(s):  \n\t", "source": "MBPP:914"}
+{"prompt": "\"\"\"\nWrite a function to rearrange positive and negative numbers in a given array using lambda function.\n\"\"\"\ndef rearrange_numbs(array_nums):\n\t", "source": "MBPP:915"}
+{"prompt": "\"\"\"\nWrite a function to find if there is a triplet in the array whose sum is equal to a given value.\n\"\"\"\ndef find_triplet_array(A, arr_size, sum): \n\t", "source": "MBPP:916"}
+{"prompt": "\"\"\"\nWrite a function to find the sequences of one upper case letter followed by lower case letters.\n\"\"\"\ndef text_uppercase_lowercase(text):\n\t", "source": "MBPP:917"}
+{"prompt": "\"\"\"\nWrite a function to count coin change.\n\"\"\"\ndef coin_change(S, m, n): \n\t", "source": "MBPP:918"}
+{"prompt": "\"\"\"\nWrite a python function to multiply all items in the list.\n\"\"\"\ndef multiply_list(items):\n\t", "source": "MBPP:919"}
+{"prompt": "\"\"\"\nWrite a function to remove all tuples with all none values in the given tuple list.\n\"\"\"\ndef remove_tuple(test_list):\n\t", "source": "MBPP:920"}
+{"prompt": "\"\"\"\nWrite a function to perform chunking of tuples each of size n.\n\"\"\"\ndef chunk_tuples(test_tup, N):\n\t", "source": "MBPP:921"}
+{"prompt": "\"\"\"\nWrite a function to find a pair with the highest product from a given array of integers.\n\"\"\"\ndef max_product(arr): \n\t", "source": "MBPP:922"}
+{"prompt": "\"\"\"\nWrite a function to find the length of the shortest string that has both str1 and str2 as subsequences.\n\"\"\"\ndef super_seq(X, Y, m, n):\n\t", "source": "MBPP:923"}
+{"prompt": "\"\"\"\nWrite a function to find maximum of two numbers.\n\"\"\"\ndef max_of_two( x, y ):\n\t", "source": "MBPP:924"}
+{"prompt": "\"\"\"\nWrite a python function to calculate the product of all the numbers of a given tuple.\n\"\"\"\ndef mutiple_tuple(nums):\n\t", "source": "MBPP:925"}
+{"prompt": "\"\"\"\nWrite a function to find n-th rencontres number.\n\"\"\"\ndef rencontres_number(n, m): \n\t", "source": "MBPP:926"}
+{"prompt": "\"\"\"\nWrite a function to calculate the height of the given binary tree.\n\"\"\"\ndef __init__(self, data): \n\t", "source": "MBPP:927"}
+{"prompt": "\"\"\"\nWrite a function to convert a date of yyyy-mm-dd format to dd-mm-yyyy format.\n\"\"\"\ndef change_date_format(dt):\n\t", "source": "MBPP:928"}
+{"prompt": "\"\"\"\nWrite a function to count repeated items of a tuple.\n\"\"\"\ndef count_tuplex(tuplex,value):  \n\t", "source": "MBPP:929"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an a followed by zero or more b's by using regex.\n\"\"\"\ndef text_match(text):\n\t", "source": "MBPP:930"}
+{"prompt": "\"\"\"\nWrite a function to calculate the sum of series 1³+2³+3³+….+n³.\n\"\"\"\ndef sum_series(number):\n\t", "source": "MBPP:931"}
+{"prompt": "\"\"\"\nWrite a function to remove duplicate words from a given list of strings.\n\"\"\"\ndef remove_duplic_list(l):\n\t", "source": "MBPP:932"}
+{"prompt": "\"\"\"\nWrite a function to convert camel case string to snake case string by using regex.\n\"\"\"\ndef camel_to_snake(text):\n\t", "source": "MBPP:933"}
+{"prompt": "\"\"\"\nWrite a function to find the nth delannoy number.\n\"\"\"\ndef dealnnoy_num(n, m): \n\t", "source": "MBPP:934"}
+{"prompt": "\"\"\"\nWrite a function to calculate the sum of series 1²+2²+3²+….+n².\n\"\"\"\ndef series_sum(number):\n\t", "source": "MBPP:935"}
+{"prompt": "\"\"\"\nWrite a function to re-arrange the given tuples based on the given ordered list.\n\"\"\"\ndef re_arrange_tuples(test_list, ord_list):\n\t", "source": "MBPP:936"}
+{"prompt": "\"\"\"\nWrite a function to count the most common character in a given string.\n\"\"\"\ndef max_char(str1):\n\t", "source": "MBPP:937"}
+{"prompt": "\"\"\"\nWrite a function to find three closest elements from three sorted arrays.\n\"\"\"\ndef find_closet(A, B, C, p, q, r): \n\t", "source": "MBPP:938"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of dictionaries using lambda function.\n\"\"\"\ndef sorted_models(models):\n\t", "source": "MBPP:939"}
+{"prompt": "\"\"\"\nWrite a function to sort the given array by using heap sort.\n\"\"\"\ndef heap_sort(arr):\n\t", "source": "MBPP:940"}
+{"prompt": "\"\"\"\nWrite a function to count the elements in a list until an element is a tuple.\n\"\"\"\ndef count_elim(num):\n\t", "source": "MBPP:941"}
+{"prompt": "\"\"\"\nWrite a function to check if any list element is present in the given list.\n\"\"\"\ndef check_element(test_tup, check_list):\n\t", "source": "MBPP:942"}
+{"prompt": "\"\"\"\nWrite a function to combine two given sorted lists using heapq module.\n\"\"\"\ndef combine_lists(num1,num2):\n\t", "source": "MBPP:943"}
+{"prompt": "\"\"\"\nWrite a function to separate and print the numbers and their position of a given string.\n\"\"\"\ndef num_position(text):\n\t", "source": "MBPP:944"}
+{"prompt": "\"\"\"\nWrite a function to convert the given tuples into set.\n\"\"\"\ndef tuple_to_set(t):\n\t", "source": "MBPP:945"}
+{"prompt": "\"\"\"\nWrite a function to find the most common elements and their counts of a specified text.\n\"\"\"\ndef most_common_elem(s,a):\n\t", "source": "MBPP:946"}
+{"prompt": "\"\"\"\nWrite a python function to find the length of the shortest word.\n\"\"\"\ndef len_log(list1):\n\t", "source": "MBPP:947"}
+{"prompt": "\"\"\"\nWrite a function to get an item of a tuple.\n\"\"\"\ndef get_item(tup1,index):\n\t", "source": "MBPP:948"}
+{"prompt": "\"\"\"\nWrite a function to sort the given tuple list basis the total digits in tuple.\n\"\"\"\ndef sort_list(test_list):\n\t", "source": "MBPP:949"}
+{"prompt": "\"\"\"\nWrite a function to display sign of the chinese zodiac for given year.\n\"\"\"\ndef chinese_zodiac(year):\n\t", "source": "MBPP:950"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum of similar indices in two lists of tuples.\n\"\"\"\ndef max_similar_indices(test_list1, test_list2):\n\t", "source": "MBPP:951"}
+{"prompt": "\"\"\"\nWrite a function to compute the value of ncr mod p.\n\"\"\"\ndef nCr_mod_p(n, r, p): \n\t", "source": "MBPP:952"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimun number of subsets with distinct elements.\n\"\"\"\ndef subset(ar, n): \n\t", "source": "MBPP:953"}
+{"prompt": "\"\"\"\nWrite a function that gives profit amount if the given amount has profit else return none.\n\"\"\"\ndef profit_amount(actual_cost,sale_amount): \n\t", "source": "MBPP:954"}
+{"prompt": "\"\"\"\nWrite a function to find out, if the given number is abundant.\n\"\"\"\ndef is_abundant(n):\n\t", "source": "MBPP:955"}
+{"prompt": "\"\"\"\nWrite a function to split the given string at uppercase letters by using regex.\n\"\"\"\ndef split_list(text):\n\t", "source": "MBPP:956"}
+{"prompt": "\"\"\"\nWrite a python function to get the position of rightmost set bit.\n\"\"\"\ndef get_First_Set_Bit_Pos(n):\n\t", "source": "MBPP:957"}
+{"prompt": "\"\"\"\nWrite a function to convert an integer into a roman numeral.\n\"\"\"\ndef int_to_roman( num):\n\t", "source": "MBPP:958"}
+{"prompt": "\"\"\"\nWrite a python function to find the average of a list.\n\"\"\"\ndef Average(lst): \n\t", "source": "MBPP:959"}
+{"prompt": "\"\"\"\nWrite a function to solve tiling problem.\n\"\"\"\ndef get_noOfways(n):\n\t", "source": "MBPP:960"}
+{"prompt": "\"\"\"\nWrite a function to convert a roman numeral to an integer.\n\"\"\"\ndef roman_to_int(s):\n\t", "source": "MBPP:961"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of all even natural numbers within the range l and r.\n\"\"\"\ndef sum_Even(l,r): \n\t", "source": "MBPP:962"}
+{"prompt": "\"\"\"\nWrite a function to calculate the discriminant value.\n\"\"\"\ndef discriminant_value(x,y,z):\n\t", "source": "MBPP:963"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the length of the word is even or not.\n\"\"\"\ndef word_len(s): \n\t", "source": "MBPP:964"}
+{"prompt": "\"\"\"\nWrite a function to convert camel case string to snake case string.\n\"\"\"\ndef camel_to_snake(text):\n\t", "source": "MBPP:965"}
+{"prompt": "\"\"\"\nWrite a function to remove an empty tuple from a list of tuples.\n\"\"\"\ndef remove_empty(tuple1): #L = [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]\n\t", "source": "MBPP:966"}
+{"prompt": "\"\"\"\nWrite a python function to accept the strings which contains all vowels.\n\"\"\"\ndef check(string): \n\t", "source": "MBPP:967"}
+{"prompt": "\"\"\"\nWrite a python function to find maximum possible value for the given periodic function.\n\"\"\"\ndef floor_Max(A,B,N):\n\t", "source": "MBPP:968"}
+{"prompt": "\"\"\"\nWrite a function to join the tuples if they have similar initial elements.\n\"\"\"\ndef join_tuples(test_list):\n\t", "source": "MBPP:969"}
+{"prompt": "\"\"\"\nWrite a function to find minimum of two numbers.\n\"\"\"\ndef min_of_two( x, y ):\n\t", "source": "MBPP:970"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum number of segments of lengths a, b and c that can be formed from n.\n\"\"\"\ndef maximum_segments(n, a, b, c) : \n\t", "source": "MBPP:971"}
+{"prompt": "\"\"\"\nWrite a function to concatenate the given two tuples to a nested tuple.\n\"\"\"\ndef concatenate_nested(test_tup1, test_tup2):\n\t", "source": "MBPP:972"}
+{"prompt": "\"\"\"\nWrite a python function to left rotate the string.\n\"\"\"\ndef left_rotate(s,d):\n\t", "source": "MBPP:973"}
+{"prompt": "\"\"\"\nWrite a function to find the minimum total path sum in the given triangle.\n\"\"\"\ndef min_sum_path(A): \n\t", "source": "MBPP:974"}
+{"prompt": "\"\"\"\nWrite a python function to remove first and last occurrence of a given character from the string.\n\"\"\"\ndef remove_Occ(s,ch): \n\t", "source": "MBPP:11"}
+{"prompt": "\"\"\"\nWrite a function to sort a given matrix in ascending order according to the sum of its rows.\n\"\"\"\ndef sort_matrix(M):\n\t", "source": "MBPP:12"}
+{"prompt": "\"\"\"\nWrite a function to count the most common words in a dictionary.\n\"\"\"\ndef count_common(words):\n\t", "source": "MBPP:13"}
+{"prompt": "\"\"\"\nWrite a python function to find the volume of a triangular prism.\n\"\"\"\ndef find_Volume(l,b,h) : \n\t", "source": "MBPP:14"}
+{"prompt": "\"\"\"\nWrite a function to split a string at lowercase letters.\n\"\"\"\ndef split_lowerstring(text):\n\t", "source": "MBPP:15"}
+{"prompt": "\"\"\"\nWrite a function to find sequences of lowercase letters joined with an underscore.\n\"\"\"\ndef text_lowercase_underscore(text):\n\t", "source": "MBPP:16"}
+{"prompt": "\"\"\"\nWrite a function to find the perimeter of a square.\n\"\"\"\ndef square_perimeter(a):\n\t", "source": "MBPP:17"}
+{"prompt": "\"\"\"\nWrite a function to remove characters from the first string which are present in the second string.\n\"\"\"\ndef remove_dirty_chars(string, second_string): \n\t", "source": "MBPP:18"}
+{"prompt": "\"\"\"\nWrite a function to find whether a given array of integers contains any duplicate element.\n\"\"\"\ndef test_duplicate(arraynums):\n\t", "source": "MBPP:19"}
+{"prompt": "\"\"\"\nWrite a function to check if the given number is woodball or not.\n\"\"\"\ndef is_woodall(x): \n\t", "source": "MBPP:20"}
+{"prompt": "\"\"\"\nWrite a function to find m number of multiples of n.\n\"\"\"\ndef multiples_of_num(m,n): \n\t", "source": "MBPP:21"}
+{"prompt": "\"\"\"\nWrite a function to find the first duplicate element in a given array of integers.\n\"\"\"\ndef find_first_duplicate(nums):\n\t", "source": "MBPP:22"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum sum of elements of list in a list of lists.\n\"\"\"\ndef maximum_Sum(list1): \n\t", "source": "MBPP:23"}
+{"prompt": "\"\"\"\nWrite a function to convert the given binary number to its decimal equivalent.\n\"\"\"\ndef binary_to_decimal(binary): \n\t", "source": "MBPP:24"}
+{"prompt": "\"\"\"\nWrite a python function to find the product of non-repeated elements in a given array.\n\"\"\"\ndef find_Product(arr,n): \n\t", "source": "MBPP:25"}
+{"prompt": "\"\"\"\nWrite a function to check if the given tuple list has all k elements.\n\"\"\"\ndef check_k_elements(test_list, K):\n\t", "source": "MBPP:26"}
+{"prompt": "\"\"\"\nWrite a python function to remove all digits from a list of strings.\n\"\"\"\ndef remove(list): \n\t", "source": "MBPP:27"}
+{"prompt": "\"\"\"\nWrite a python function to find binomial co-efficient.\n\"\"\"\ndef binomial_Coeff(n,k): \n\t", "source": "MBPP:28"}
+{"prompt": "\"\"\"\nWrite a python function to find the element occurring odd number of times.\n\"\"\"\ndef get_Odd_Occurrence(arr,arr_size):   \n\t", "source": "MBPP:29"}
+{"prompt": "\"\"\"\nWrite a python function to count all the substrings starting and ending with same characters.\n\"\"\"\ndef count_Substring_With_Equal_Ends(s): \n\t", "source": "MBPP:30"}
+{"prompt": "\"\"\"\nWrite a function to find the top k integers that occur most frequently from given lists of sorted and distinct integers using heap queue algorithm.\n\"\"\"\ndef func(nums, k):\n\t", "source": "MBPP:31"}
+{"prompt": "\"\"\"\nWrite a python function to find the largest prime factor of a given number.\n\"\"\"\ndef max_Prime_Factors (n): \n\t", "source": "MBPP:32"}
+{"prompt": "\"\"\"\nWrite a python function to convert a decimal number to binary number.\n\"\"\"\ndef decimal_To_Binary(N): \n\t", "source": "MBPP:33"}
+{"prompt": "\"\"\"\nWrite a python function to find the missing number in a sorted array.\n\"\"\"\ndef find_missing(ar,N): \n\t", "source": "MBPP:34"}
+{"prompt": "\"\"\"\nWrite a function to find the n-th rectangular number.\n\"\"\"\ndef find_rect_num(n):\n\t", "source": "MBPP:35"}
+{"prompt": "\"\"\"\nWrite a python function to find the nth digit in the proper fraction of two given numbers.\n\"\"\"\ndef find_Nth_Digit(p,q,N) :  \n\t", "source": "MBPP:36"}
+{"prompt": "\"\"\"\nWrite a function to sort a given mixed list of integers and strings.\n\"\"\"\ndef sort_mixed_list(mixed_list):\n\t", "source": "MBPP:37"}
+{"prompt": "\"\"\"\nWrite a function to find the division of first even and odd number of a given list.\n\"\"\"\ndef div_even_odd(list1):\n\t", "source": "MBPP:38"}
+{"prompt": "\"\"\"\nWrite a function to check if the letters of a given string can be rearranged so that two characters that are adjacent to each other are different.\n\"\"\"\ndef rearange_string(S):\n\t", "source": "MBPP:39"}
+{"prompt": "\"\"\"\nWrite a function to find frequency of the elements in a given list of lists using collections module.\n\"\"\"\ndef freq_element(nums):\n\t", "source": "MBPP:40"}
+{"prompt": "\"\"\"\nWrite a function to filter even numbers using lambda function.\n\"\"\"\ndef filter_evennumbers(nums):\n\t", "source": "MBPP:41"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of repeated elements in a given array.\n\"\"\"\ndef find_Sum(arr,n): \n\t", "source": "MBPP:42"}
+{"prompt": "\"\"\"\nWrite a function to find sequences of lowercase letters joined with an underscore using regex.\n\"\"\"\ndef text_match(text):\n\t", "source": "MBPP:43"}
+{"prompt": "\"\"\"\nWrite a function that matches a word at the beginning of a string.\n\"\"\"\ndef text_match_string(text):\n\t", "source": "MBPP:44"}
+{"prompt": "\"\"\"\nWrite a function to find the gcd of the given array elements.\n\"\"\"\ndef get_gcd(l):\n\t", "source": "MBPP:45"}
+{"prompt": "\"\"\"\nWrite a python function to determine whether all the numbers are different from each other are not.\n\"\"\"\ndef test_distinct(data):\n\t", "source": "MBPP:46"}
+{"prompt": "\"\"\"\nWrite a python function to find the last digit when factorial of a divides factorial of b.\n\"\"\"\ndef compute_Last_Digit(A,B): \n\t", "source": "MBPP:47"}
+{"prompt": "\"\"\"\nWrite a python function to set all odd bits of a given number.\n\"\"\"\ndef odd_bit_set_number(n):\n\t", "source": "MBPP:48"}
+{"prompt": "\"\"\"\nWrite a function to extract every first or specified element from a given two-dimensional list.\n\"\"\"\ndef specified_element(nums, N):\n\t", "source": "MBPP:49"}
+{"prompt": "\"\"\"\nWrite a function to find the list with minimum length using lambda function.\n\"\"\"\ndef min_length_list(input_list):\n\t", "source": "MBPP:50"}
+{"prompt": "\"\"\"\nWrite a function to print check if the triangle is equilateral or not.\n\"\"\"\ndef check_equilateral(x,y,z):\n\t", "source": "MBPP:51"}
+{"prompt": "\"\"\"\nWrite a function to caluclate area of a parallelogram.\n\"\"\"\ndef parallelogram_area(b,h):\n\t", "source": "MBPP:52"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the first and last characters of a given string are equal or not.\n\"\"\"\ndef check_Equality(str):\n\t", "source": "MBPP:53"}
+{"prompt": "\"\"\"\nWrite a function to sort the given array by using counting sort.\n\"\"\"\ndef counting_sort(my_list):\n\t", "source": "MBPP:54"}
+{"prompt": "\"\"\"\nWrite a function to find t-nth term of geometric series.\n\"\"\"\ndef tn_gp(a,n,r):\n\t", "source": "MBPP:55"}
+{"prompt": "\"\"\"\nWrite a python function to check if a given number is one less than twice its reverse.\n\"\"\"\ndef check(n):    \n\t", "source": "MBPP:56"}
+{"prompt": "\"\"\"\nWrite a python function to find the largest number that can be formed with the given digits.\n\"\"\"\ndef find_Max_Num(arr,n) : \n\t", "source": "MBPP:57"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given two integers have opposite sign or not.\n\"\"\"\ndef opposite_Signs(x,y): \n\t", "source": "MBPP:58"}
+{"prompt": "\"\"\"\nWrite a function to find the nth octagonal number.\n\"\"\"\ndef is_octagonal(n): \n\t", "source": "MBPP:59"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum length of the subsequence with difference between adjacent elements for the given array.\n\"\"\"\ndef max_len_sub( arr, n): \n\t", "source": "MBPP:60"}
+{"prompt": "\"\"\"\nWrite a python function to count number of substrings with the sum of digits equal to their length.\n\"\"\"\ndef count_Substrings(s,n):\n\t", "source": "MBPP:61"}
+{"prompt": "\"\"\"\nWrite a python function to find smallest number in a list.\n\"\"\"\ndef smallest_num(xs):\n  return min(xs)\n\n\t", "source": "MBPP:62"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum difference between available pairs in the given tuple list.\n\"\"\"\ndef max_difference(test_list):\n\t", "source": "MBPP:63"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of tuples using lambda.\n\"\"\"\ndef subject_marks(subjectmarks):\n\t", "source": "MBPP:64"}
+{"prompt": "\"\"\"\nWrite a function of recursion list sum.\n\"\"\"\ndef recursive_list_sum(data_list):\n\t", "source": "MBPP:65"}
+{"prompt": "\"\"\"\nWrite a python function to count positive numbers in a list.\n\"\"\"\ndef pos_count(list):\n\t", "source": "MBPP:66"}
+{"prompt": "\"\"\"\nWrite a function to find the number of ways to partition a set of bell numbers.\n\"\"\"\ndef bell_number(n):   \n\t", "source": "MBPP:67"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given array is monotonic or not.\n\"\"\"\ndef is_Monotonic(A): \n\t", "source": "MBPP:68"}
+{"prompt": "\"\"\"\nWrite a function to check whether a list contains the given sublist or not.\n\"\"\"\ndef is_sublist(l, s):\n\t", "source": "MBPP:69"}
+{"prompt": "\"\"\"\nWrite a function to find whether all the given tuples have equal length or not.\n\"\"\"\ndef get_equal(Input, k):\n\t", "source": "MBPP:70"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of elements using comb sort.\n\"\"\"\ndef comb_sort(nums):\n\t", "source": "MBPP:71"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number can be represented as difference of two squares or not.\n\"\"\"\ndef dif_Square(n): \n\t", "source": "MBPP:72"}
+{"prompt": "\"\"\"\nWrite a function to split the given string with multiple delimiters by using regex.\n\"\"\"\ndef multiple_split(text):\n\t", "source": "MBPP:73"}
+{"prompt": "\"\"\"\nWrite a function to check whether it follows the sequence given in the patterns array.\n\"\"\"\ndef is_samepatterns(colors, patterns):    \n\t", "source": "MBPP:74"}
+{"prompt": "\"\"\"\nWrite a function to find tuples which have all elements divisible by k from the given list of tuples.\n\"\"\"\ndef find_tuples(test_list, K):\n\t", "source": "MBPP:75"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of squares in a rectangle.\n\"\"\"\ndef count_Squares(m,n):\n\t", "source": "MBPP:76"}
+{"prompt": "\"\"\"\nWrite a python function to find the difference between sum of even and odd digits.\n\"\"\"\ndef is_Diff(n): \n\t", "source": "MBPP:77"}
+{"prompt": "\"\"\"\nWrite a python function to find number of integers with odd number of set bits.\n\"\"\"\ndef count_With_Odd_SetBits(n): \n\t", "source": "MBPP:78"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the length of the word is odd or not.\n\"\"\"\ndef word_len(s): \n\t", "source": "MBPP:79"}
+{"prompt": "\"\"\"\nWrite a function to find the nth tetrahedral number.\n\"\"\"\ndef tetrahedral_number(n): \n\t", "source": "MBPP:80"}
+{"prompt": "\"\"\"\nWrite a function to zip the two given tuples.\n\"\"\"\ndef zip_tuples(test_tup1, test_tup2):\n\t", "source": "MBPP:81"}
+{"prompt": "\"\"\"\nWrite a function to find the volume of a sphere.\n\"\"\"\ndef volume_sphere(r):\n\t", "source": "MBPP:82"}
+{"prompt": "\"\"\"\nWrite a python function to find the character made by adding all the characters of the given string.\n\"\"\"\ndef get_Char(strr):  \n\t", "source": "MBPP:83"}
+{"prompt": "\"\"\"\nWrite a function to find the n-th number in newman conway sequence.\n\"\"\"\ndef sequence(n): \n\t", "source": "MBPP:84"}
+{"prompt": "\"\"\"\nWrite a function to find the surface area of a sphere.\n\"\"\"\ndef surfacearea_sphere(r):\n\t", "source": "MBPP:85"}
+{"prompt": "\"\"\"\nWrite a function to find nth centered hexagonal number.\n\"\"\"\ndef centered_hexagonal_number(n):\n\t", "source": "MBPP:86"}
+{"prompt": "\"\"\"\nWrite a function to merge three dictionaries into a single expression.\n\"\"\"\ndef merge_dictionaries_three(dict1,dict2, dict3):\n\t", "source": "MBPP:87"}
+{"prompt": "\"\"\"\nWrite a function to get the frequency of the elements in a list.\n\"\"\"\ndef freq_count(list1):\n\t", "source": "MBPP:88"}
+{"prompt": "\"\"\"\nWrite a function to find the closest smaller number than n.\n\"\"\"\ndef closest_num(N):\n\t", "source": "MBPP:89"}
+{"prompt": "\"\"\"\nWrite a python function to find the length of the longest word.\n\"\"\"\ndef len_log(list1):\n\t", "source": "MBPP:90"}
+{"prompt": "\"\"\"\nWrite a function to check if a substring is present in a given list of string values.\n\"\"\"\ndef find_substring(str1, sub_str):\n\t", "source": "MBPP:91"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given number is undulating or not.\n\"\"\"\ndef is_undulating(n): \n\t", "source": "MBPP:92"}
+{"prompt": "\"\"\"\nWrite a function to calculate the value of 'a' to the power 'b'.\n\"\"\"\ndef power(a,b):\n\t", "source": "MBPP:93"}
+{"prompt": "\"\"\"\nWrite a function to extract the index minimum value record from the given tuples.\n\"\"\"\ndef index_minimum(test_list):\n\t", "source": "MBPP:94"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum length of sublist.\n\"\"\"\ndef Find_Min_Length(lst):  \n\t", "source": "MBPP:95"}
+{"prompt": "\"\"\"\nWrite a python function to find the number of divisors of a given integer.\n\"\"\"\ndef divisor(n):\n\t", "source": "MBPP:96"}
+{"prompt": "\"\"\"\nWrite a function to find frequency count of list of lists.\n\"\"\"\ndef frequency_lists(list1):\n\t", "source": "MBPP:97"}
+{"prompt": "\"\"\"\nWrite a function to multiply all the numbers in a list and divide with the length of the list.\n\"\"\"\ndef multiply_num(numbers):  \n\t", "source": "MBPP:98"}
+{"prompt": "\"\"\"\nWrite a function to convert the given decimal number to its binary equivalent.\n\"\"\"\ndef decimal_to_binary(n): \n\t", "source": "MBPP:99"}
+{"prompt": "\"\"\"\nWrite a function to find the next smallest palindrome of a specified number.\n\"\"\"\ndef next_smallest_palindrome(num):\n\t", "source": "MBPP:100"}
+{"prompt": "\"\"\"\nWrite a function to find the kth element in the given array.\n\"\"\"\ndef kth_element(arr, n, k):\n\t", "source": "MBPP:101"}
+{"prompt": "\"\"\"\nWrite a function to convert snake case string to camel case string.\n\"\"\"\ndef snake_to_camel(word):\n\t", "source": "MBPP:102"}
+{"prompt": "\"\"\"\nWrite a function to find eulerian number a(n, m).\n\"\"\"\ndef eulerian_num(n, m): \n\t", "source": "MBPP:103"}
+{"prompt": "\"\"\"\nWrite a function to sort each sublist of strings in a given list of lists using lambda function.\n\"\"\"\ndef sort_sublists(input_list):\n\t", "source": "MBPP:104"}
+{"prompt": "\"\"\"\nWrite a python function to count true booleans in the given list.\n\"\"\"\ndef count(lst):   \n\t", "source": "MBPP:105"}
+{"prompt": "\"\"\"\nWrite a function to add the given list to the given tuples.\n\"\"\"\ndef add_lists(test_list, test_tup):\n\t", "source": "MBPP:106"}
+{"prompt": "\"\"\"\nWrite a python function to count hexadecimal numbers for a given range.\n\"\"\"\ndef count_Hexadecimal(L,R) :  \n\t", "source": "MBPP:107"}
+{"prompt": "\"\"\"\nWrite a function to merge multiple sorted inputs into a single sorted iterator using heap queue algorithm.\n\"\"\"\ndef merge_sorted_list(num1,num2,num3):\n\t", "source": "MBPP:108"}
+{"prompt": "\"\"\"\nWrite a python function to find the count of rotations of a binary string with odd value.\n\"\"\"\ndef odd_Equivalent(s,n): \n\t", "source": "MBPP:109"}
+{"prompt": "\"\"\"\nWrite a function to extract the ranges that are missing from the given list with the given start range and end range values.\n\"\"\"\ndef extract_missing(test_list, strt_val, stop_val):\n\t", "source": "MBPP:110"}
+{"prompt": "\"\"\"\nWrite a function to find common elements in given nested lists. * list item * list item * list item * list item\n\"\"\"\ndef common_in_nested_lists(nestedlist):\n\t", "source": "MBPP:111"}
+{"prompt": "\"\"\"\nWrite a python function to find the perimeter of a cylinder.\n\"\"\"\ndef perimeter(diameter,height) : \n\t", "source": "MBPP:112"}
+{"prompt": "\"\"\"\nWrite a function to check if a string represents an integer or not.\n\"\"\"\ndef check_integer(text):\n\t", "source": "MBPP:113"}
+{"prompt": "\"\"\"\nWrite a function to assign frequency to each tuple in the given tuple list.\n\"\"\"\ndef assign_freq(test_list):\n\t", "source": "MBPP:114"}
+{"prompt": "\"\"\"\nWrite a function to check whether all dictionaries in a list are empty or not.\n\"\"\"\ndef empty_dit(list1):\n\t", "source": "MBPP:115"}
+{"prompt": "\"\"\"\nWrite a function to convert a given tuple of positive integers into an integer.\n\"\"\"\ndef tuple_to_int(nums):\n\t", "source": "MBPP:116"}
+{"prompt": "\"\"\"\nWrite a function to convert all possible convertible elements in the list to float.\n\"\"\"\ndef list_to_float(test_list):\n\t", "source": "MBPP:117"}
+{"prompt": "\"\"\"\n[link text](https:// [link text](https:// [link text](https://)))write a function to convert a string to a list.\n\"\"\"\ndef string_to_list(string): \n\t", "source": "MBPP:118"}
+{"prompt": "\"\"\"\nWrite a python function to find the element that appears only once in a sorted array.\n\"\"\"\ndef search(arr,n) :\n\t", "source": "MBPP:119"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum product from the pairs of tuples within a given list.\n\"\"\"\ndef max_product_tuple(list1):\n\t", "source": "MBPP:120"}
+{"prompt": "\"\"\"\nWrite a function to find the triplet with sum of the given array\n\"\"\"\ndef check_triplet(A, n, sum, count):\n\t", "source": "MBPP:121"}
+{"prompt": "\"\"\"\nWrite a function to find n’th smart number.\n\"\"\"\ndef smartNumber(n): \n\t", "source": "MBPP:122"}
+{"prompt": "\"\"\"\nWrite a function to sum all amicable numbers from 1 to a specified number.\n\"\"\"\ndef amicable_numbers_sum(limit):\n\t", "source": "MBPP:123"}
+{"prompt": "\"\"\"\nWrite a function to get the angle of a complex number.\n\"\"\"\ndef angle_complex(a,b):\n\t", "source": "MBPP:124"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum difference between the number of 0s and number of 1s in any sub-string of the given binary string.\n\"\"\"\ndef find_length(string, n): \n\t", "source": "MBPP:125"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of common divisors of two given numbers.\n\"\"\"\ndef sum(a,b): \n\t", "source": "MBPP:126"}
+{"prompt": "\"\"\"\nWrite a function to multiply two integers without using the * operator in python.\n\"\"\"\ndef multiply_int(x, y):\n\t", "source": "MBPP:127"}
+{"prompt": "\"\"\"\nWrite a function to shortlist words that are longer than n from a given list of words.\n\"\"\"\ndef long_words(n, str):\n\t", "source": "MBPP:128"}
+{"prompt": "\"\"\"\nWrite a function to calculate magic square.\n\"\"\"\ndef magic_square_test(my_matrix):\n\t", "source": "MBPP:129"}
+{"prompt": "\"\"\"\nWrite a function to find the item with maximum frequency in a given list.\n\"\"\"\ndef max_occurrences(nums):\n\t", "source": "MBPP:130"}
+{"prompt": "\"\"\"\nWrite a python function to reverse only the vowels of a given string.\n\"\"\"\ndef reverse_vowels(str1):\n\t", "source": "MBPP:131"}
+{"prompt": "\"\"\"\nWrite a function to convert tuple to a string.\n\"\"\"\ndef tup_string(tup1):\n\t", "source": "MBPP:132"}
+{"prompt": "\"\"\"\nWrite a function to calculate the sum of the negative numbers of a given list of numbers using lambda function.\n\"\"\"\ndef sum_negativenum(nums):\n\t", "source": "MBPP:133"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the last element of given array is even or odd after performing an operation p times.\n\"\"\"\ndef check_last (arr,n,p): \n\t", "source": "MBPP:134"}
+{"prompt": "\"\"\"\nWrite a function to find the nth hexagonal number.\n\"\"\"\ndef hexagonal_num(n): \n\t", "source": "MBPP:135"}
+{"prompt": "\"\"\"\nWrite a function to calculate electricity bill.\n\"\"\"\ndef cal_electbill(units):\n\t", "source": "MBPP:136"}
+{"prompt": "\"\"\"\nWrite a function to find the ration of zeroes in an array of integers.\n\"\"\"\ndef zero_count(nums):\n\t", "source": "MBPP:137"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number can be represented as sum of non-zero powers of 2 or not.\n\"\"\"\ndef is_Sum_Of_Powers_Of_Two(n): \n\t", "source": "MBPP:138"}
+{"prompt": "\"\"\"\nWrite a function to find the circumference of a circle.\n\"\"\"\ndef circle_circumference(r):\n\t", "source": "MBPP:139"}
+{"prompt": "\"\"\"\nWrite a function to extract elements that occur singly in the given tuple list.\n\"\"\"\ndef extract_singly(test_list):\n\t", "source": "MBPP:140"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of elements using pancake sort.\n\"\"\"\ndef pancake_sort(nums):\n\t", "source": "MBPP:141"}
+{"prompt": "\"\"\"\nWrite a function to count the same pair in three given lists.\n\"\"\"\ndef count_samepair(list1,list2,list3):\n\t", "source": "MBPP:142"}
+{"prompt": "\"\"\"\nWrite a function to find number of lists present in the given tuple.\n\"\"\"\ndef find_lists(Input): \n\t", "source": "MBPP:143"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of absolute differences in all pairs of the given array.\n\"\"\"\ndef sum_Pairs(arr,n): \n\t", "source": "MBPP:144"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum difference between any two elements in a given array.\n\"\"\"\ndef max_Abs_Diff(arr,n): \n\t", "source": "MBPP:145"}
+{"prompt": "\"\"\"\nWrite a function to find the ascii value of total characters in a string.\n\"\"\"\ndef ascii_value_string(str1):\n\t", "source": "MBPP:146"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum total path sum in the given triangle.\n\"\"\"\ndef max_path_sum(tri, m, n): \n\t", "source": "MBPP:147"}
+{"prompt": "\"\"\"\nWrite a function to divide a number into two parts such that the sum of digits is maximum.\n\"\"\"\ndef sum_digits_twoparts(N) : \n\t", "source": "MBPP:148"}
+{"prompt": "\"\"\"\nWrite a function to find the longest subsequence such that the difference between adjacents is one for the given array.\n\"\"\"\ndef longest_subseq_with_diff_one(arr, n): \n\t", "source": "MBPP:149"}
+{"prompt": "\"\"\"\nWrite a python function to find whether the given number is present in the infinite sequence or not.\n\"\"\"\ndef does_Contain_B(a,b,c): \n\t", "source": "MBPP:150"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number is co-prime or not.\n\"\"\"\ndef is_coprime(x,y):\n\t", "source": "MBPP:151"}
+{"prompt": "\"\"\"\nWrite a function to sort the given array by using merge sort.\n\"\"\"\ndef merge_sort(x):\n\t", "source": "MBPP:152"}
+{"prompt": "\"\"\"\nWrite a function to find the vertex of a parabola.\n\"\"\"\ndef parabola_vertex(a, b, c): \n\t", "source": "MBPP:153"}
+{"prompt": "\"\"\"\nWrite a function to extract every specified element from a given two dimensional list.\n\"\"\"\ndef specified_element(nums, N):\n\t", "source": "MBPP:154"}
+{"prompt": "\"\"\"\nWrite a python function to toggle all even bits of a given number.\n\"\"\"\ndef even_bit_toggle_number(n) : \n\t", "source": "MBPP:155"}
+{"prompt": "\"\"\"\nWrite a function to convert a tuple of string values to a tuple of integer values.\n\"\"\"\ndef tuple_int_str(tuple_str):\n\t", "source": "MBPP:156"}
+{"prompt": "\"\"\"\nWrite a function to reflect the run-length encoding from a list.\n\"\"\"\ndef encode_list(list1):\n\t", "source": "MBPP:157"}
+{"prompt": "\"\"\"\nWrite a python function to find k number of operations required to make all elements equal.\n\"\"\"\ndef min_Ops(arr,n,k): \n\t", "source": "MBPP:158"}
+{"prompt": "\"\"\"\nWrite a function to print the season for the given month and day.\n\"\"\"\ndef month_season(month,days):\n\t", "source": "MBPP:159"}
+{"prompt": "\"\"\"\nWrite a function to find x and y that satisfies ax + by = n.\n\"\"\"\ndef solution (a, b, n): \n\t", "source": "MBPP:160"}
+{"prompt": "\"\"\"\nWrite a function to remove all elements from a given list present in another list.\n\"\"\"\ndef remove_elements(list1, list2):\n\t", "source": "MBPP:161"}
+{"prompt": "\"\"\"\nWrite a function to calculate the sum of the positive integers of n+(n-2)+(n-4)... (until n-x =< 0).\n\"\"\"\ndef sum_series(n):\n\t", "source": "MBPP:162"}
+{"prompt": "\"\"\"\nWrite a function to calculate the area of a regular polygon.\n\"\"\"\ndef area_polygon(s,l):\n\t", "source": "MBPP:163"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the sum of divisors are same or not.\n\"\"\"\ndef areEquivalent(num1,num2): \n\t", "source": "MBPP:164"}
+{"prompt": "\"\"\"\nWrite a python function to count characters at same position in a given string (lower and uppercase characters) as in english alphabet.\n\"\"\"\ndef count_char_position(str1): \n\t", "source": "MBPP:165"}
+{"prompt": "\"\"\"\nWrite a python function to count the pairs with xor as an even number.\n\"\"\"\ndef find_even_Pair(A,N): \n\t", "source": "MBPP:166"}
+{"prompt": "\"\"\"\nWrite a python function to find smallest power of 2 greater than or equal to n.\n\"\"\"\ndef next_Power_Of_2(n): \n\t", "source": "MBPP:167"}
+{"prompt": "\"\"\"\nWrite a python function to find the frequency of a number in a given array.\n\"\"\"\ndef frequency(a,x): \n\t", "source": "MBPP:168"}
+{"prompt": "\"\"\"\nWrite a function to calculate the nth pell number.\n\"\"\"\ndef get_pell(n): \n\t", "source": "MBPP:169"}
+{"prompt": "\"\"\"\nWrite a function to find sum of the numbers in a list between the indices of a specified range.\n\"\"\"\ndef sum_range_list(list1, m, n):                                                                                                                                                                                                \n\t", "source": "MBPP:170"}
+{"prompt": "\"\"\"\nWrite a function to find the perimeter of a pentagon.\n\"\"\"\ndef perimeter_pentagon(a):\n\t", "source": "MBPP:171"}
+{"prompt": "\"\"\"\nWrite a function to find the occurence of characters 'std' in the given string 1. list item 1. list item 1. list item 2. list item 2. list item 2. list item\n\"\"\"\ndef count_occurance(s):\n\t", "source": "MBPP:172"}
+{"prompt": "\"\"\"\nWrite a function to remove everything except alphanumeric characters from a string.\n\"\"\"\ndef remove_splchar(text): \n\t", "source": "MBPP:173"}
+{"prompt": "\"\"\"\nWrite a function to group a sequence of key-value pairs into a dictionary of lists.\n\"\"\"\ndef group_keyvalue(l):\n\t", "source": "MBPP:174"}
+{"prompt": "\"\"\"\nWrite a function to verify validity of a string of parentheses.\n\"\"\"\ndef is_valid_parenthese( str1):\n\t", "source": "MBPP:175"}
+{"prompt": "\"\"\"\nWrite a function to find the perimeter of a triangle.\n\"\"\"\ndef perimeter_triangle(a,b,c):\n\t", "source": "MBPP:176"}
+{"prompt": "\"\"\"\nWrite a python function to find two distinct numbers such that their lcm lies within the given range.\n\"\"\"\ndef answer(L,R): \n\t", "source": "MBPP:177"}
+{"prompt": "\"\"\"\nWrite a function to search some literals strings in a string.\n\"\"\"\ndef string_literals(patterns,text):\n\t", "source": "MBPP:178"}
+{"prompt": "\"\"\"\nWrite a function to find if the given number is a keith number or not.\n\"\"\"\ndef is_num_keith(x): \n\t", "source": "MBPP:179"}
+{"prompt": "\"\"\"\nWrite a function to calculate distance between two points using latitude and longitude.\n\"\"\"\ndef distance_lat_long(slat,slon,elat,elon):\n\t", "source": "MBPP:180"}
+{"prompt": "\"\"\"\nWrite a function to find the longest common prefix in the given set of strings.\n\"\"\"\ndef common_prefix_util(str1, str2): \n\t", "source": "MBPP:181"}
+{"prompt": "\"\"\"\nWrite a function to find uppercase, lowercase, special character and numeric values using regex.\n\"\"\"\ndef find_character(string):\n\t", "source": "MBPP:182"}
+{"prompt": "\"\"\"\nWrite a function to count all the distinct pairs having a difference of k in any array.\n\"\"\"\ndef count_pairs(arr, n, k):\n\t", "source": "MBPP:183"}
+{"prompt": "\"\"\"\nWrite a function to find all the values in a list that are greater than a specified number.\n\"\"\"\ndef greater_specificnum(list,num):\n\t", "source": "MBPP:184"}
+{"prompt": "\"\"\"\nWrite a function to find the focus of a parabola.\n\"\"\"\ndef parabola_focus(a, b, c): \n\t", "source": "MBPP:185"}
+{"prompt": "\"\"\"\nWrite a function to search some literals strings in a string by using regex.\n\"\"\"\ndef check_literals(text, patterns):\n\t", "source": "MBPP:186"}
+{"prompt": "\"\"\"\nWrite a function to find the longest common subsequence for the given two sequences.\n\"\"\"\ndef longest_common_subsequence(X, Y, m, n): \n\t", "source": "MBPP:187"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number can be represented by product of two squares or not.\n\"\"\"\ndef prod_Square(n):\n\t", "source": "MBPP:188"}
+{"prompt": "\"\"\"\nWrite a python function to find the first missing positive number.\n\"\"\"\ndef first_Missing_Positive(arr,n): \n\t", "source": "MBPP:189"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of integral co-ordinates that lie inside a square.\n\"\"\"\ndef count_Intgral_Points(x1,y1,x2,y2): \n\t", "source": "MBPP:190"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given month name contains 30 days or not.\n\"\"\"\ndef check_monthnumber(monthname3):\n\t", "source": "MBPP:191"}
+{"prompt": "\"\"\"\nWrite a python function to check whether a string has atleast one letter and one number.\n\"\"\"\ndef check_String(str): \n\t", "source": "MBPP:192"}
+{"prompt": "\"\"\"\nWrite a function to remove the duplicates from the given tuple.\n\"\"\"\ndef remove_tuple(test_tup):\n\t", "source": "MBPP:193"}
+{"prompt": "\"\"\"\nWrite a python function to convert octal number to decimal number.\n\"\"\"\ndef octal_To_Decimal(n):  \n\t", "source": "MBPP:194"}
+{"prompt": "\"\"\"\nWrite a python function to find the first position of an element in a sorted array.\n\"\"\"\ndef first(arr,x,n): \n\t", "source": "MBPP:195"}
+{"prompt": "\"\"\"\nWrite a function to remove all the tuples with length k.\n\"\"\"\ndef remove_tuples(test_list, K):\n\t", "source": "MBPP:196"}
+{"prompt": "\"\"\"\nWrite a function to perform the exponentiation of the given two tuples.\n\"\"\"\ndef find_exponentio(test_tup1, test_tup2):\n\t", "source": "MBPP:197"}
+{"prompt": "\"\"\"\nWrite a function to find the largest triangle that can be inscribed in an ellipse.\n\"\"\"\ndef largest_triangle(a,b): \n\t", "source": "MBPP:198"}
+{"prompt": "\"\"\"\nWrite a python function to find highest power of 2 less than or equal to given number.\n\"\"\"\ndef highest_Power_of_2(n): \n\t", "source": "MBPP:199"}
+{"prompt": "\"\"\"\nWrite a function to find all index positions of the maximum values in a given list.\n\"\"\"\ndef position_max(list1):\n\t", "source": "MBPP:200"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the elements in a list are same or not.\n\"\"\"\ndef chkList(lst): \n\t", "source": "MBPP:201"}
+{"prompt": "\"\"\"\nWrite a function to remove even characters in a string.\n\"\"\"\ndef remove_even(str1):\n\t", "source": "MBPP:202"}
+{"prompt": "\"\"\"\nWrite a python function to find the hamming distance between given two integers.\n\"\"\"\ndef hamming_Distance(n1,n2) : \n\t", "source": "MBPP:203"}
+{"prompt": "\"\"\"\nWrite a python function to count the occurrence of a given character in a string.\n\"\"\"\ndef count(s,c) : \n\t", "source": "MBPP:204"}
+{"prompt": "\"\"\"\nWrite a function to find the inversions of tuple elements in the given tuple list.\n\"\"\"\ndef inversion_elements(test_tup):\n\t", "source": "MBPP:205"}
+{"prompt": "\"\"\"\nWrite a function to perform the adjacent element concatenation in the given tuples.\n\"\"\"\ndef concatenate_elements(test_tup):\n\t", "source": "MBPP:206"}
+{"prompt": "\"\"\"\nWrite a function to count the longest repeating subsequences such that the two subsequences don’t have same string characters at same positions.\n\"\"\"\ndef find_longest_repeating_subseq(str): \n\t", "source": "MBPP:207"}
+{"prompt": "\"\"\"\nWrite a function to check the given decimal with a precision of 2 by using regex.\n\"\"\"\ndef is_decimal(num):\n\t", "source": "MBPP:208"}
+{"prompt": "\"\"\"\nWrite a function to delete the smallest element from the given heap and then insert a new item.\n\"\"\"\ndef heap_replace(heap,a):\n\t", "source": "MBPP:209"}
+{"prompt": "\"\"\"\nWrite a function to check that the given string contains only a certain set of characters(in this case a-z, a-z and 0-9) by using regex.\n\"\"\"\ndef is_allowed_specific_char(string):\n\t", "source": "MBPP:210"}
+{"prompt": "\"\"\"\nWrite a python function to count numbers whose oth and nth bits are set.\n\"\"\"\ndef count_Num(n): \n\t", "source": "MBPP:211"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of fourth power of n natural numbers.\n\"\"\"\ndef fourth_Power_Sum(n): \n\t", "source": "MBPP:212"}
+{"prompt": "\"\"\"\nWrite a function to perform the concatenation of two string tuples.\n\"\"\"\ndef concatenate_strings(test_tup1, test_tup2):\n\t", "source": "MBPP:213"}
+{"prompt": "\"\"\"\nWrite a function to convert radians to degrees.\n\"\"\"\ndef degree_radian(radian):\n\t", "source": "MBPP:214"}
+{"prompt": "\"\"\"\nWrite a function to decode a run-length encoded given list.\n\"\"\"\ndef decode_list(alist):\n\t", "source": "MBPP:215"}
+{"prompt": "\"\"\"\nWrite a function to check if a nested list is a subset of another nested list.\n\"\"\"\ndef check_subset_list(list1, list2): \n\t", "source": "MBPP:216"}
+{"prompt": "\"\"\"\nWrite a python function to find the first repeated character in a given string.\n\"\"\"\ndef first_Repeated_Char(str): \n\t", "source": "MBPP:217"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum operations required to make two numbers equal.\n\"\"\"\ndef min_Operations(A,B):  \n\t", "source": "MBPP:218"}
+{"prompt": "\"\"\"\nWrite a function to extract maximum and minimum k elements in the given tuple.\n\"\"\"\ndef extract_min_max(test_tup, K):\n\t", "source": "MBPP:219"}
+{"prompt": "\"\"\"\nWrite a function to replace maximum n occurrences of spaces, commas, or dots with a colon.\n\"\"\"\ndef replace_max_specialchar(text,n):\n\t", "source": "MBPP:220"}
+{"prompt": "\"\"\"\nWrite a python function to find the first even number in a given list of numbers.\n\"\"\"\ndef first_even(nums):\n\t", "source": "MBPP:221"}
+{"prompt": "\"\"\"\nWrite a function to check if all the elements in tuple have same data type or not.\n\"\"\"\ndef check_type(test_tuple):\n\t", "source": "MBPP:222"}
+{"prompt": "\"\"\"\nWrite a function to check for majority element in the given sorted array.\n\"\"\"\ndef is_majority(arr, n, x):\n\t", "source": "MBPP:223"}
+{"prompt": "\"\"\"\nWrite a python function to count set bits of a given number.\n\"\"\"\ndef count_Set_Bits(n): \n\t", "source": "MBPP:224"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum element in a sorted and rotated array.\n\"\"\"\ndef find_Min(arr,low,high): \n\t", "source": "MBPP:225"}
+{"prompt": "\"\"\"\nWrite a python function to remove the characters which have odd index values of a given string.\n\"\"\"\ndef odd_values_string(str):\n\t", "source": "MBPP:226"}
+{"prompt": "\"\"\"\nWrite a function to find minimum of three numbers.\n\"\"\"\ndef min_of_three(a,b,c): \n\t", "source": "MBPP:227"}
+{"prompt": "\"\"\"\nWrite a python function to check whether all the bits are unset in the given range or not.\n\"\"\"\ndef all_Bits_Set_In_The_Given_Range(n,l,r):  \n\t", "source": "MBPP:228"}
+{"prompt": "\"\"\"\nWrite a function to re-arrange the elements of the given array so that all negative elements appear before positive ones.\n\"\"\"\ndef re_arrange_array(arr, n):\n\t", "source": "MBPP:229"}
+{"prompt": "\"\"\"\nWrite a function to replace blank spaces with any character in a string.\n\"\"\"\ndef replace_blank(str1,char):\n\t", "source": "MBPP:230"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum sum in the given right triangle of numbers.\n\"\"\"\ndef max_sum(tri, n): \n\t", "source": "MBPP:231"}
+{"prompt": "\"\"\"\nWrite a function to get the n largest items from a dataset.\n\"\"\"\ndef larg_nnum(list1,n):\n\t", "source": "MBPP:232"}
+{"prompt": "\"\"\"\nWrite a function to find the lateral surface area of a cylinder.\n\"\"\"\ndef lateralsuface_cylinder(r,h):\n\t", "source": "MBPP:233"}
+{"prompt": "\"\"\"\nWrite a function to find the volume of a cube.\n\"\"\"\ndef volume_cube(l):\n\t", "source": "MBPP:234"}
+{"prompt": "\"\"\"\nWrite a python function to set all even bits of a given number.\n\"\"\"\ndef even_bit_set_number(n): \n\t", "source": "MBPP:235"}
+{"prompt": "\"\"\"\nWrite a python function to count the maximum number of equilateral triangles that can be formed within a given equilateral triangle.\n\"\"\"\ndef No_of_Triangle(N,K):\n\t", "source": "MBPP:236"}
+{"prompt": "\"\"\"\nWrite a function to check the occurrences of records which occur similar times in the given tuples.\n\"\"\"\ndef check_occurences(test_list):\n\t", "source": "MBPP:237"}
+{"prompt": "\"\"\"\nWrite a python function to count number of non-empty substrings of a given string.\n\"\"\"\ndef number_of_substrings(str): \n\t", "source": "MBPP:238"}
+{"prompt": "\"\"\"\nWrite a function to find the number of possible sequences of length n such that each of the next element is greater than or equal to twice of the previous element but less than or equal to m.\n\"\"\"\ndef get_total_number_of_sequences(m,n): \n\t", "source": "MBPP:239"}
+{"prompt": "\"\"\"\nWrite a function to replace the last element of the list with another list.\n\"\"\"\ndef replace_list(list1,list2):\n\t", "source": "MBPP:240"}
+{"prompt": "\"\"\"\nWrite a function to generate a 3d array having each element as '*'.\n\"\"\"\ndef array_3d(m,n,o):\n\t", "source": "MBPP:241"}
+{"prompt": "\"\"\"\nWrite a function to count total characters in a string.\n\"\"\"\ndef count_charac(str1):\n\t", "source": "MBPP:242"}
+{"prompt": "\"\"\"\nWrite a function to sort the given list based on the occurrence of first element of tuples.\n\"\"\"\ndef sort_on_occurence(lst): \n\t", "source": "MBPP:243"}
+{"prompt": "\"\"\"\nWrite a python function to find the next perfect square greater than a given number.\n\"\"\"\ndef next_Perfect_Square(N): \n\t", "source": "MBPP:244"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum sum of bi-tonic sub-sequence for the given array.\n\"\"\"\ndef max_sum(arr, n): \n\t", "source": "MBPP:245"}
+{"prompt": "\"\"\"\nWrite a function for computing square roots using the babylonian method.\n\"\"\"\ndef babylonian_squareroot(number):\n\t", "source": "MBPP:246"}
+{"prompt": "\"\"\"\nWrite a function to find the longest palindromic subsequence in the given string.\n\"\"\"\ndef lps(str): \n\t", "source": "MBPP:247"}
+{"prompt": "\"\"\"\nWrite a function to calculate the harmonic sum of n-1.\n\"\"\"\ndef harmonic_sum(n):\n\t", "source": "MBPP:248"}
+{"prompt": "\"\"\"\nWrite a function to find the intersection of two arrays using lambda function.\n\"\"\"\ndef intersection_array(array_nums1,array_nums2):\n\t", "source": "MBPP:249"}
+{"prompt": "\"\"\"\nWrite a python function to count the occcurences of an element in a tuple.\n\"\"\"\ndef count_X(tup, x): \n\t", "source": "MBPP:250"}
+{"prompt": "\"\"\"\nWrite a function to insert an element before each element of a list.\n\"\"\"\ndef insert_element(list,element):\n\t", "source": "MBPP:251"}
+{"prompt": "\"\"\"\nWrite a python function to convert complex numbers to polar coordinates.\n\"\"\"\ndef convert(numbers):    \n\t", "source": "MBPP:252"}
+{"prompt": "\"\"\"\nWrite a python function to count integers from a given list.\n\"\"\"\ndef count_integer(list1):\n\t", "source": "MBPP:253"}
+{"prompt": "\"\"\"\nWrite a function to find all words starting with 'a' or 'e' in a given string.\n\"\"\"\ndef words_ae(text):\n\t", "source": "MBPP:254"}
+{"prompt": "\"\"\"\nWrite a function to choose specified number of colours from three different colours and generate all the combinations with repetitions.\n\"\"\"\ndef combinations_colors(l, n):\n\t", "source": "MBPP:255"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of prime numbers less than a given non-negative number.\n\"\"\"\ndef count_Primes_nums(n):\n\t", "source": "MBPP:256"}
+{"prompt": "\"\"\"\nWrite a function to swap two numbers.\n\"\"\"\ndef swap_numbers(a,b):\n\t", "source": "MBPP:257"}
+{"prompt": "\"\"\"\nWrite a function to find number of odd elements in the given list using lambda function.\n\"\"\"\ndef count_odd(array_nums):\n\t", "source": "MBPP:258"}
+{"prompt": "\"\"\"\nWrite a function to maximize the given two tuples.\n\"\"\"\ndef maximize_elements(test_tup1, test_tup2):\n\t", "source": "MBPP:259"}
+{"prompt": "\"\"\"\nWrite a function to find the nth newman–shanks–williams prime number.\n\"\"\"\ndef newman_prime(n): \n\t", "source": "MBPP:260"}
+{"prompt": "\"\"\"\nWrite a function to perform mathematical division operation across the given tuples.\n\"\"\"\ndef division_elements(test_tup1, test_tup2):\n\t", "source": "MBPP:261"}
+{"prompt": "\"\"\"\nWrite a function to split a given list into two parts where the length of the first part of the list is given.\n\"\"\"\ndef split_two_parts(list1, L):\n\t", "source": "MBPP:262"}
+{"prompt": "\"\"\"\nWrite a function to merge two dictionaries.\n\"\"\"\ndef merge_dict(d1,d2):\n\t", "source": "MBPP:263"}
+{"prompt": "\"\"\"\nWrite a function to calculate a dog's age in dog's years.\n\"\"\"\ndef dog_age(h_age):\n\t", "source": "MBPP:264"}
+{"prompt": "\"\"\"\nWrite a function to split a list for every nth element.\n\"\"\"\ndef list_split(S, step):\n\t", "source": "MBPP:265"}
+{"prompt": "\"\"\"\nWrite a function to find the lateral surface area of a cube.\n\"\"\"\ndef lateralsurface_cube(l):\n\t", "source": "MBPP:266"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of squares of first n odd natural numbers.\n\"\"\"\ndef square_Sum(n):  \n\t", "source": "MBPP:267"}
+{"prompt": "\"\"\"\nWrite a function to find the n'th star number.\n\"\"\"\ndef find_star_num(n): \n\t", "source": "MBPP:268"}
+{"prompt": "\"\"\"\nWrite a function to find the ascii value of a character.\n\"\"\"\ndef ascii_value(k):\n\t", "source": "MBPP:269"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of even numbers at even positions.\n\"\"\"\ndef sum_even_and_even_index(arr,n):  \n\t", "source": "MBPP:270"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of fifth power of first n even natural numbers.\n\"\"\"\ndef even_Power_Sum(n): \n\t", "source": "MBPP:271"}
+{"prompt": "\"\"\"\nWrite a function to perfom the rear element extraction from list of tuples records.\n\"\"\"\ndef rear_extract(test_list):\n\t", "source": "MBPP:272"}
+{"prompt": "\"\"\"\nWrite a function to substract the contents of one tuple with corresponding index of other tuple.\n\"\"\"\ndef substract_elements(test_tup1, test_tup2):\n\t", "source": "MBPP:273"}
+{"prompt": "\"\"\"\nWrite a python function to find sum of even index binomial coefficients.\n\"\"\"\ndef even_binomial_Coeff_Sum( n): \n\t", "source": "MBPP:274"}
+{"prompt": "\"\"\"\nWrite a python function to find the position of the last removed element from the given array.\n\"\"\"\ndef get_Position(a,n,m): \n\t", "source": "MBPP:275"}
+{"prompt": "\"\"\"\nWrite a function to find the volume of a cylinder.\n\"\"\"\ndef volume_cylinder(r,h):\n\t", "source": "MBPP:276"}
+{"prompt": "\"\"\"\nWrite a function to filter a dictionary based on values.\n\"\"\"\ndef dict_filter(dict,n):\n\t", "source": "MBPP:277"}
+{"prompt": "\"\"\"\nWrite a function to find the element count that occurs before the record in the given tuple.\n\"\"\"\ndef count_first_elements(test_tup):\n\t", "source": "MBPP:278"}
+{"prompt": "\"\"\"\nWrite a function to find the nth decagonal number.\n\"\"\"\ndef is_num_decagonal(n): \n\t", "source": "MBPP:279"}
+{"prompt": "\"\"\"\nWrite a function to search an element in the given array by using sequential search.\n\"\"\"\ndef sequential_search(dlist, item):\n\t", "source": "MBPP:280"}
+{"prompt": "\"\"\"\nWrite a python function to check if the elements of a given list are unique or not.\n\"\"\"\ndef all_unique(test_list):\n\t", "source": "MBPP:281"}
+{"prompt": "\"\"\"\nWrite a function to substaract two lists using map and lambda function.\n\"\"\"\ndef sub_list(nums1,nums2):\n\t", "source": "MBPP:282"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the frequency of each digit is less than or equal to the digit itself.\n\"\"\"\ndef validate(n): \n\t", "source": "MBPP:283"}
+{"prompt": "\"\"\"\nWrite a function to check whether all items of a list are equal to a given string.\n\"\"\"\ndef check_element(list,element):\n\t", "source": "MBPP:284"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an a followed by two to three 'b'.\n\"\"\"\ndef text_match_two_three(text):\n\t", "source": "MBPP:285"}
+{"prompt": "\"\"\"\nWrite a function to find the largest sum of contiguous array in the modified array which is formed by repeating the given array k times.\n\"\"\"\ndef max_sub_array_sum_repeated(a, n, k): \n\t", "source": "MBPP:286"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of squares of first n even natural numbers.\n\"\"\"\ndef square_Sum(n):  \n\t", "source": "MBPP:287"}
+{"prompt": "\"\"\"\nWrite a function to count array elements having modular inverse under given prime number p equal to itself.\n\"\"\"\ndef modular_inverse(arr, N, P):\n\t", "source": "MBPP:288"}
+{"prompt": "\"\"\"\nWrite a python function to calculate the number of odd days in a given year.\n\"\"\"\ndef odd_Days(N): \n\t", "source": "MBPP:289"}
+{"prompt": "\"\"\"\nWrite a function to find the list of lists with maximum length.\n\"\"\"\ndef max_length(list1):\n\t", "source": "MBPP:290"}
+{"prompt": "\"\"\"\nWrite a function to find out the number of ways of painting the fence such that at most 2 adjacent posts have the same color for the given fence with n posts and k colors.\n\"\"\"\ndef count_no_of_ways(n, k): \n\t", "source": "MBPP:291"}
+{"prompt": "\"\"\"\nWrite a python function to find quotient of two numbers.\n\"\"\"\ndef find(n,m):  \n\t", "source": "MBPP:292"}
+{"prompt": "\"\"\"\nWrite a function to find the third side of a right angled triangle.\n\"\"\"\ndef otherside_rightangle(w,h):\n\t", "source": "MBPP:293"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum value in a given heterogeneous list.\n\"\"\"\ndef max_val(listval):\n\t", "source": "MBPP:294"}
+{"prompt": "\"\"\"\nWrite a function to return the sum of all divisors of a number.\n\"\"\"\ndef sum_div(number):\n\t", "source": "MBPP:295"}
+{"prompt": "\"\"\"\nWrite a python function to count inversions in an array.\n\"\"\"\ndef get_Inv_Count(arr,n): \n\t", "source": "MBPP:296"}
+{"prompt": "\"\"\"\nWrite a function to flatten a given nested list structure.\n\"\"\"\ndef flatten_list(list1):\n\t", "source": "MBPP:297"}
+{"prompt": "\"\"\"\nWrite a function to find the nested list elements which are present in another list.\n\"\"\"\ndef intersection_nested_lists(l1, l2):\n\t", "source": "MBPP:298"}
+{"prompt": "\"\"\"\nWrite a function to calculate the maximum aggregate from the list of tuples.\n\"\"\"\ndef max_aggregate(stdata):\n\t", "source": "MBPP:299"}
+{"prompt": "\"\"\"\nWrite a function to find the count of all binary sequences of length 2n such that sum of first n bits is same as sum of last n bits.\n\"\"\"\ndef count_binary_seq(n): \n\t", "source": "MBPP:300"}
+{"prompt": "\"\"\"\nWrite a function to find the depth of a dictionary.\n\"\"\"\ndef dict_depth(d):\n\t", "source": "MBPP:301"}
+{"prompt": "\"\"\"\nWrite a python function to find the most significant bit number which is also a set bit.\n\"\"\"\ndef set_Bit_Number(n): \n\t", "source": "MBPP:302"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the count of inversion of two types are same or not.\n\"\"\"\ndef solve(a,n):   \n\t", "source": "MBPP:303"}
+{"prompt": "\"\"\"\nWrite a python function to find element at a given index after number of rotations.\n\"\"\"\ndef find_Element(arr,ranges,rotations,index) :  \n\t", "source": "MBPP:304"}
+{"prompt": "\"\"\"\nWrite a function to match two words from a list of words starting with letter 'p'.\n\"\"\"\ndef start_withp(words):\n\t", "source": "MBPP:305"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum sum of increasing subsequence from prefix till ith index and also including a given kth element which is after i, i.e., k > i .\n\"\"\"\ndef max_sum_increasing_subseq(a, n, index, k):\n\t", "source": "MBPP:306"}
+{"prompt": "\"\"\"\nWrite a function to get a colon of a tuple.\n\"\"\"\ndef colon_tuplex(tuplex,m,n):\n\t", "source": "MBPP:307"}
+{"prompt": "\"\"\"\nWrite a function to find the specified number of largest products from two given lists.\n\"\"\"\ndef large_product(nums1, nums2, N):\n\t", "source": "MBPP:308"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum of two numbers.\n\"\"\"\ndef maximum(a,b):   \n\t", "source": "MBPP:309"}
+{"prompt": "\"\"\"\nWrite a function to convert a given string to a tuple.\n\"\"\"\ndef string_to_tuple(str1):\n\t", "source": "MBPP:310"}
+{"prompt": "\"\"\"\nWrite a python function to set the left most unset bit.\n\"\"\"\ndef set_left_most_unset_bit(n): \n\t", "source": "MBPP:311"}
+{"prompt": "\"\"\"\nWrite a function to find the volume of a cone.\n\"\"\"\ndef volume_cone(r,h):\n\t", "source": "MBPP:312"}
+{"prompt": "\"\"\"\nWrite a python function to print positive numbers in a list.\n\"\"\"\ndef pos_nos(list1):\n\t", "source": "MBPP:313"}
+{"prompt": "\"\"\"\nWrite a function to find out the maximum sum such that no two chosen numbers are adjacent for the given rectangular grid of dimension 2 x n.\n\"\"\"\ndef max_sum_rectangular_grid(grid, n) : \n\t", "source": "MBPP:314"}
+{"prompt": "\"\"\"\nWrite a python function to find the first maximum length of even word.\n\"\"\"\ndef find_Max_Len_Even(str): \n\t", "source": "MBPP:315"}
+{"prompt": "\"\"\"\nWrite a function to find the index of the last occurrence of a given number in a sorted array.\n\"\"\"\ndef find_last_occurrence(A, x):\n\t", "source": "MBPP:316"}
+{"prompt": "\"\"\"\nWrite a function to reflect the modified run-length encoding from a list.\n\"\"\"\ndef modified_encode(alist):\n\t", "source": "MBPP:317"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum volume of a cuboid with given sum of sides.\n\"\"\"\ndef max_volume (s): \n\t", "source": "MBPP:318"}
+{"prompt": "\"\"\"\nWrite a function to find all five characters long word in the given string by using regex.\n\"\"\"\ndef find_long_word(text):\n\t", "source": "MBPP:319"}
+{"prompt": "\"\"\"\nWrite a function to calculate the difference between the squared sum of first n natural numbers and the sum of squared first n natural numbers.\n\"\"\"\ndef sum_difference(n):\n\t", "source": "MBPP:320"}
+{"prompt": "\"\"\"\nWrite a function to find the demlo number for the given number.\n\"\"\"\ndef find_demlo(s): \n\t", "source": "MBPP:321"}
+{"prompt": "\"\"\"\nWrite a function to find all index positions of the minimum values in a given list.\n\"\"\"\ndef position_min(list1):\n\t", "source": "MBPP:322"}
+{"prompt": "\"\"\"\nWrite a function to re-arrange the given array in alternating positive and negative items.\n\"\"\"\ndef re_arrange(arr, n):\n\t", "source": "MBPP:323"}
+{"prompt": "\"\"\"\nWrite a function to extract the sum of alternate chains of tuples.\n\"\"\"\ndef sum_of_alternates(test_tuple):\n\t", "source": "MBPP:324"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum number of squares whose sum is equal to a given number.\n\"\"\"\ndef get_Min_Squares(n):\n\t", "source": "MBPP:325"}
+{"prompt": "\"\"\"\nWrite a function to get the word with most number of occurrences in the given strings list.\n\"\"\"\ndef most_occurrences(test_list):\n\t", "source": "MBPP:326"}
+{"prompt": "\"\"\"\nWrite a function to print check if the triangle is isosceles or not.\n\"\"\"\ndef check_isosceles(x,y,z):\n\t", "source": "MBPP:327"}
+{"prompt": "\"\"\"\nWrite a function to rotate a given list by specified number of items to the left direction.\n\"\"\"\ndef rotate_left(list1,m,n):\n\t", "source": "MBPP:328"}
+{"prompt": "\"\"\"\nWrite a python function to count negative numbers in a list.\n\"\"\"\ndef neg_count(list):\n\t", "source": "MBPP:329"}
+{"prompt": "\"\"\"\nWrite a function to find all three, four, five characters long words in the given string by using regex.\n\"\"\"\ndef find_char(text):\n\t", "source": "MBPP:330"}
+{"prompt": "\"\"\"\nWrite a python function to count unset bits of a given number.\n\"\"\"\ndef count_unset_bits(n): \n\t", "source": "MBPP:331"}
+{"prompt": "\"\"\"\nWrite a function to count character frequency of a given string.\n\"\"\"\ndef char_frequency(str1):\n\t", "source": "MBPP:332"}
+{"prompt": "\"\"\"\nWrite a python function to sort a list according to the second element in sublist.\n\"\"\"\ndef Sort(sub_li): \n\t", "source": "MBPP:333"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the triangle is valid or not if sides are given.\n\"\"\"\ndef check_Validity(a,b,c):  \n\t", "source": "MBPP:334"}
+{"prompt": "\"\"\"\nWrite a function to find the sum of arithmetic progression.\n\"\"\"\ndef ap_sum(a,n,d):\n\t", "source": "MBPP:335"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given month name contains 28 days or not.\n\"\"\"\ndef check_monthnum(monthname1):\n\t", "source": "MBPP:336"}
+{"prompt": "\"\"\"\nWrite a function that matches a word at the end of a string, with optional punctuation.\n\"\"\"\ndef text_match_word(text):\n\t", "source": "MBPP:337"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of substrings with same first and last characters.\n\"\"\"\ndef count_Substring_With_Equal_Ends(s): \n\t", "source": "MBPP:338"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum occuring divisor in an interval.\n\"\"\"\ndef find_Divisor(x,y):  \n\t", "source": "MBPP:339"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of the three lowest positive numbers from a given list of numbers.\n\"\"\"\ndef sum_three_smallest_nums(lst):\n\t", "source": "MBPP:340"}
+{"prompt": "\"\"\"\nWrite a function to convert the given set into ordered tuples.\n\"\"\"\ndef set_to_tuple(s):\n\t", "source": "MBPP:341"}
+{"prompt": "\"\"\"\nWrite a function to find the smallest range that includes at-least one element from each of the given arrays.\n\"\"\"\ndef find_minimum_range(list):\n\t", "source": "MBPP:342"}
+{"prompt": "\"\"\"\nWrite a function to calculate the number of digits and letters in a string.\n\"\"\"\ndef dig_let(s):\n\t", "source": "MBPP:343"}
+{"prompt": "\"\"\"\nWrite a python function to find number of elements with odd factors in a given range.\n\"\"\"\ndef count_Odd_Squares(n,m): \n\t", "source": "MBPP:344"}
+{"prompt": "\"\"\"\nWrite a function to find the difference between two consecutive numbers in a given list.\n\"\"\"\ndef diff_consecutivenums(nums):\n\t", "source": "MBPP:345"}
+{"prompt": "\"\"\"\nWrite a function to find entringer number e(n, k).\n\"\"\"\ndef zigzag(n, k): \n\t", "source": "MBPP:346"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of squares in a rectangle.\n\"\"\"\ndef count_Squares(m,n): \n\t", "source": "MBPP:347"}
+{"prompt": "\"\"\"\nWrite a function to count sequences of given length having non-negative prefix sums that can be generated by given values.\n\"\"\"\ndef find_ways(M): \n\t", "source": "MBPP:348"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given string is a binary string or not.\n\"\"\"\ndef check(string) :\n\t", "source": "MBPP:349"}
+{"prompt": "\"\"\"\nWrite a python function to minimize the length of the string by removing occurrence of only one character.\n\"\"\"\ndef minimum_Length(s) : \n\t", "source": "MBPP:350"}
+{"prompt": "\"\"\"\nWrite a python function to find the first element occurring k times in a given array.\n\"\"\"\ndef first_Element(arr,n,k): \n\t", "source": "MBPP:351"}
+{"prompt": "\"\"\"\nWrite a python function to check whether all the characters in a given string are unique.\n\"\"\"\ndef unique_Characters(str):\n\t", "source": "MBPP:352"}
+{"prompt": "\"\"\"\nWrite a function to remove a specified column from a given nested list.\n\"\"\"\ndef remove_column(list1, n):\n\t", "source": "MBPP:353"}
+{"prompt": "\"\"\"\nWrite a function to find t-nth term of arithemetic progression.\n\"\"\"\ndef tn_ap(a,n,d):\n\t", "source": "MBPP:354"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of rectangles in a circle of radius r.\n\"\"\"\ndef count_Rectangles(radius):  \n\t", "source": "MBPP:355"}
+{"prompt": "\"\"\"\nWrite a function to find the third angle of a triangle using two angles.\n\"\"\"\ndef find_angle(a,b):\n\t", "source": "MBPP:356"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum element of all the given tuple records.\n\"\"\"\ndef find_max(test_list):\n\t", "source": "MBPP:357"}
+{"prompt": "\"\"\"\nWrite a function to find modulo division of two lists using map and lambda function.\n\"\"\"\ndef moddiv_list(nums1,nums2):\n\t", "source": "MBPP:358"}
+{"prompt": "\"\"\"\nWrite a python function to check whether one root of the quadratic equation is twice of the other or not.\n\"\"\"\ndef Check_Solution(a,b,c): \n\t", "source": "MBPP:359"}
+{"prompt": "\"\"\"\nWrite a function to find the n’th carol number.\n\"\"\"\ndef get_carol(n): \n\t", "source": "MBPP:360"}
+{"prompt": "\"\"\"\nWrite a function to remove empty lists from a given list of lists.\n\"\"\"\ndef remove_empty(list1):\n\t", "source": "MBPP:361"}
+{"prompt": "\"\"\"\nWrite a python function to find the item with maximum occurrences in a given list.\n\"\"\"\ndef max_occurrences(nums):\n\t", "source": "MBPP:362"}
+{"prompt": "\"\"\"\nWrite a function to add the k elements to each element in the tuple.\n\"\"\"\ndef add_K_element(test_list, K):\n\t", "source": "MBPP:363"}
+{"prompt": "\"\"\"\nWrite a function to find the number of flips required to make the given binary string a sequence of alternate characters.\n\"\"\"\ndef min_flip_to_make_string_alternate(str): \n\t", "source": "MBPP:364"}
+{"prompt": "\"\"\"\nWrite a python function to count the number of digits of a given number.\n\"\"\"\ndef count_Digit(n):\n\t", "source": "MBPP:365"}
+{"prompt": "\"\"\"\nWrite a python function to find the largest product of the pair of adjacent elements from a given list of integers.\n\"\"\"\ndef adjacent_num_product(list_nums):\n\t", "source": "MBPP:366"}
+{"prompt": "\"\"\"\nWrite a function to check if a binary tree is balanced or not.\n\"\"\"\ndef is_tree_balanced(root): \n\t", "source": "MBPP:367"}
+{"prompt": "\"\"\"\nWrite a function to repeat the given tuple n times.\n\"\"\"\ndef repeat_tuples(test_tup, N):\n\t", "source": "MBPP:368"}
+{"prompt": "\"\"\"\nWrite a function to find the lateral surface area of cuboid\n\"\"\"\ndef lateralsurface_cuboid(l,w,h):\n\t", "source": "MBPP:369"}
+{"prompt": "\"\"\"\nWrite a function to sort a tuple by its float element.\n\"\"\"\ndef float_sort(price):\n\t", "source": "MBPP:370"}
+{"prompt": "\"\"\"\nWrite a function to find the smallest missing element in a sorted array.\n\"\"\"\ndef smallest_missing(A, left_element, right_element):\n\t", "source": "MBPP:371"}
+{"prompt": "\"\"\"\nWrite a function to sort a given list of elements in ascending order using heap queue algorithm.\n\"\"\"\ndef heap_assending(nums):\n\t", "source": "MBPP:372"}
+{"prompt": "\"\"\"\nWrite a function to find the volume of a cuboid.\n\"\"\"\ndef volume_cuboid(l,w,h):\n\t", "source": "MBPP:373"}
+{"prompt": "\"\"\"\nWrite a function to print all permutations of a given string including duplicates.\n\"\"\"\ndef permute_string(str):\n\t", "source": "MBPP:374"}
+{"prompt": "\"\"\"\nWrite a function to round the given number to the nearest multiple of a specific number.\n\"\"\"\ndef round_num(n,m):\n\t", "source": "MBPP:375"}
+{"prompt": "\"\"\"\nWrite a function to remove tuple elements that occur more than once and replace the duplicates with some custom value.\n\"\"\"\ndef remove_replica(test_tup):\n\t", "source": "MBPP:376"}
+{"prompt": "\"\"\"\nWrite a python function to remove all occurrences of a character in a given string.\n\"\"\"\ndef remove_Char(s,c) :  \n\t", "source": "MBPP:377"}
+{"prompt": "\"\"\"\nWrite a python function to shift last element to first position in the given list.\n\"\"\"\ndef move_first(test_list):\n\t", "source": "MBPP:378"}
+{"prompt": "\"\"\"\nWrite a function to find the surface area of a cuboid.\n\"\"\"\ndef surfacearea_cuboid(l,w,h):\n\t", "source": "MBPP:379"}
+{"prompt": "\"\"\"\nWrite a function to generate a two-dimensional array.\n\"\"\"\ndef multi_list(rownum,colnum):\n\t", "source": "MBPP:380"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of lists by a given index of the inner list.\n\"\"\"\ndef index_on_inner_list(list_data, index_no):\n\t", "source": "MBPP:381"}
+{"prompt": "\"\"\"\nWrite a function to find the number of rotations in a circularly sorted array.\n\"\"\"\ndef find_rotation_count(A):\n\t", "source": "MBPP:382"}
+{"prompt": "\"\"\"\nWrite a python function to toggle all odd bits of a given number.\n\"\"\"\ndef even_bit_toggle_number(n) : \n\t", "source": "MBPP:383"}
+{"prompt": "\"\"\"\nWrite a python function to find the frequency of the smallest value in a given array.\n\"\"\"\ndef frequency_Of_Smallest(n,arr): \n\t", "source": "MBPP:384"}
+{"prompt": "\"\"\"\nWrite a function to find the n'th perrin number using recursion.\n\"\"\"\ndef get_perrin(n):\n\t", "source": "MBPP:385"}
+{"prompt": "\"\"\"\nWrite a function to find out the minimum no of swaps required for bracket balancing in the given string.\n\"\"\"\ndef swap_count(s):\n\t", "source": "MBPP:386"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the hexadecimal number is even or odd.\n\"\"\"\ndef even_or_odd(N): \n\t", "source": "MBPP:387"}
+{"prompt": "\"\"\"\nWrite a python function to find the highest power of 2 that is less than or equal to n.\n\"\"\"\ndef highest_Power_of_2(n): \n\t", "source": "MBPP:388"}
+{"prompt": "\"\"\"\nWrite a function to find the n'th lucas number.\n\"\"\"\ndef find_lucas(n): \n\t", "source": "MBPP:389"}
+{"prompt": "\"\"\"\nWrite a function to insert a given string at the beginning of all items in a list.\n\"\"\"\ndef add_string(list,string):\n\t", "source": "MBPP:390"}
+{"prompt": "\"\"\"\nWrite a function to convert more than one list to nested dictionary.\n\"\"\"\ndef convert_list_dictionary(l1, l2, l3):\n\t", "source": "MBPP:391"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n).\n\"\"\"\ndef get_max_sum (n):\n\t", "source": "MBPP:392"}
+{"prompt": "\"\"\"\nWrite a function to find the list with maximum length using lambda function.\n\"\"\"\ndef max_length_list(input_list):\n\t", "source": "MBPP:393"}
+{"prompt": "\"\"\"\nWrite a function to check if given tuple is distinct or not.\n\"\"\"\ndef check_distinct(test_tup):\n\t", "source": "MBPP:394"}
+{"prompt": "\"\"\"\nWrite a python function to find the first non-repeated character in a given string.\n\"\"\"\ndef first_non_repeating_character(str1):\n\t", "source": "MBPP:395"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given string starts and ends with the same character or not using regex.\n\"\"\"\ndef check_char(string): \n\t", "source": "MBPP:396"}
+{"prompt": "\"\"\"\nWrite a function to find the median of three specific numbers.\n\"\"\"\ndef median_numbers(a,b,c):\n\t", "source": "MBPP:397"}
+{"prompt": "\"\"\"\nWrite a function to compute the sum of digits of each number of a given list.\n\"\"\"\ndef sum_of_digits(nums):\n\t", "source": "MBPP:398"}
+{"prompt": "\"\"\"\nWrite a function to perform the mathematical bitwise xor operation across the given tuples.\n\"\"\"\ndef bitwise_xor(test_tup1, test_tup2):\n\t", "source": "MBPP:399"}
+{"prompt": "\"\"\"\nWrite a function to extract the frequency of unique tuples in the given list order irrespective.\n\"\"\"\ndef extract_freq(test_list):\n\t", "source": "MBPP:400"}
+{"prompt": "\"\"\"\nWrite a function to perform index wise addition of tuple elements in the given two nested tuples.\n\"\"\"\ndef add_nested_tuples(test_tup1, test_tup2):\n\t", "source": "MBPP:401"}
+{"prompt": "\"\"\"\nWrite a function to compute the value of ncr%p.\n\"\"\"\ndef ncr_modp(n, r, p): \n\t", "source": "MBPP:402"}
+{"prompt": "\"\"\"\nWrite a function to check if a url is valid or not using regex.\n\"\"\"\ndef is_valid_URL(str):\n\t", "source": "MBPP:403"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum of two numbers.\n\"\"\"\ndef minimum(a,b):   \n\t", "source": "MBPP:404"}
+{"prompt": "\"\"\"\nWrite a function to check whether an element exists within a tuple.\n\"\"\"\ndef check_tuplex(tuplex,tuple1): \n\t", "source": "MBPP:405"}
+{"prompt": "\"\"\"\nWrite a python function to find the parity of a given number.\n\"\"\"\ndef find_Parity(x): \n\t", "source": "MBPP:406"}
+{"prompt": "\"\"\"\nWrite a function to create the next bigger number by rearranging the digits of a given number.\n\"\"\"\ndef rearrange_bigger(n):\n\t", "source": "MBPP:407"}
+{"prompt": "\"\"\"\nWrite a function to find k number of pairs which consist of one element from the first array and one element from the second array.\n\"\"\"\ndef k_smallest_pairs(nums1, nums2, k):\n\t", "source": "MBPP:408"}
+{"prompt": "\"\"\"\nWrite a function to find the minimum product from the pairs of tuples within a given list.\n\"\"\"\ndef min_product_tuple(list1):\n\t", "source": "MBPP:409"}
+{"prompt": "\"\"\"\nWrite a function to find the minimum value in a given heterogeneous list.\n\"\"\"\ndef min_val(listval):\n\t", "source": "MBPP:410"}
+{"prompt": "\"\"\"\nWrite a function to convert the given snake case string to camel case string by using regex.\n\"\"\"\ndef snake_to_camel(word):\n\t", "source": "MBPP:411"}
+{"prompt": "\"\"\"\nWrite a python function to remove odd numbers from a given list.\n\"\"\"\ndef remove_odd(l):\n\t", "source": "MBPP:412"}
+{"prompt": "\"\"\"\nWrite a function to extract the nth element from a given list of tuples.\n\"\"\"\ndef extract_nth_element(list1, n):\n\t", "source": "MBPP:413"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the value exists in a sequence or not.\n\"\"\"\ndef overlapping(list1,list2):  \n\t", "source": "MBPP:414"}
+{"prompt": "\"\"\"\nWrite a python function to find a pair with highest product from a given array of integers.\n\"\"\"\ndef max_Product(arr): \n\t", "source": "MBPP:415"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum sum we can make by dividing number in three parts recursively and summing them up together for the given number.\n\"\"\"\ndef breakSum(n): \n\t", "source": "MBPP:416"}
+{"prompt": "\"\"\"\nWrite a function to find common first element in given list of tuple.\n\"\"\"\ndef group_tuples(Input): \n\t", "source": "MBPP:417"}
+{"prompt": "\"\"\"\nWrite a python function to find the sublist having maximum length.\n\"\"\"\ndef Find_Max(lst): \n\t", "source": "MBPP:418"}
+{"prompt": "\"\"\"\nWrite a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.\n\"\"\"\ndef round_and_sum(list1):\n\t", "source": "MBPP:419"}
+{"prompt": "\"\"\"\nWrite a python function to find the cube sum of first n even natural numbers.\n\"\"\"\ndef cube_Sum(n): \n\t", "source": "MBPP:420"}
+{"prompt": "\"\"\"\nWrite a function to concatenate each element of tuple by the delimiter.\n\"\"\"\ndef concatenate_tuple(test_tup):\n\t", "source": "MBPP:421"}
+{"prompt": "\"\"\"\nWrite a python function to find the average of cubes of first n natural numbers.\n\"\"\"\ndef find_Average_Of_Cube(n):  \n\t", "source": "MBPP:422"}
+{"prompt": "\"\"\"\nWrite a function to solve gold mine problem.\n\"\"\"\ndef get_maxgold(gold, m, n): \n\t", "source": "MBPP:423"}
+{"prompt": "\"\"\"\nWrite a function to extract only the rear index element of each string in the given tuple.\n\"\"\"\ndef extract_rear(test_tuple):\n\t", "source": "MBPP:424"}
+{"prompt": "\"\"\"\nWrite a function to count the number of sublists containing a particular element.\n\"\"\"\ndef count_element_in_list(list1, x): \n\t", "source": "MBPP:425"}
+{"prompt": "\"\"\"\nWrite a function to filter odd numbers using lambda function.\n\"\"\"\ndef filter_oddnumbers(nums):\n\t", "source": "MBPP:426"}
+{"prompt": "\"\"\"\nWrite a function to convert a date of yyyy-mm-dd format to dd-mm-yyyy format by using regex.\n\"\"\"\ndef change_date_format(dt):\n\t", "source": "MBPP:427"}
+{"prompt": "\"\"\"\nWrite a function to sort the given array by using shell sort.\n\"\"\"\ndef shell_sort(my_list):\n\t", "source": "MBPP:428"}
+{"prompt": "\"\"\"\nWrite a function to extract the elementwise and tuples from the given two tuples.\n\"\"\"\ndef and_tuples(test_tup1, test_tup2):\n\t", "source": "MBPP:429"}
+{"prompt": "\"\"\"\nWrite a function to find the directrix of a parabola.\n\"\"\"\ndef parabola_directrix(a, b, c): \n\t", "source": "MBPP:430"}
+{"prompt": "\"\"\"\nWrite a function that takes two lists and returns true if they have at least one common element.\n\"\"\"\ndef common_element(list1, list2):\n\t", "source": "MBPP:431"}
+{"prompt": "\"\"\"\nWrite a function to find the median of a trapezium.\n\"\"\"\ndef median_trapezium(base1,base2,height):\n\t", "source": "MBPP:432"}
+{"prompt": "\"\"\"\nWrite a function to check whether the entered number is greater than the elements of the given array.\n\"\"\"\ndef check_greater(arr, number):\n\t", "source": "MBPP:433"}
+{"prompt": "\"\"\"\nWrite a function that matches a string that has an a followed by one or more b's.\n\"\"\"\ndef text_match_one(text):\n\t", "source": "MBPP:434"}
+{"prompt": "\"\"\"\nWrite a python function to find the last digit of a given number.\n\"\"\"\ndef last_Digit(n) :\n\t", "source": "MBPP:435"}
+{"prompt": "\"\"\"\nWrite a python function to print negative numbers in a list.\n\"\"\"\ndef neg_nos(list1):\n\t", "source": "MBPP:436"}
+{"prompt": "\"\"\"\nWrite a function to remove odd characters in a string.\n\"\"\"\ndef remove_odd(str1):\n\t", "source": "MBPP:437"}
+{"prompt": "\"\"\"\nWrite a function to count bidirectional tuple pairs.\n\"\"\"\ndef count_bidirectional(test_list):\n\t", "source": "MBPP:438"}
+{"prompt": "\"\"\"\nWrite a function to convert a list of multiple integers into a single integer.\n\"\"\"\ndef multiple_to_single(L):\n\t", "source": "MBPP:439"}
+{"prompt": "\"\"\"\nWrite a function to find all adverbs and their positions in a given sentence.\n\"\"\"\ndef find_adverb_position(text):\n\t", "source": "MBPP:440"}
+{"prompt": "\"\"\"\nWrite a function to find the surface area of a cube.\n\"\"\"\ndef surfacearea_cube(l):\n\t", "source": "MBPP:441"}
+{"prompt": "\"\"\"\nWrite a function to find the ration of positive numbers in an array of integers.\n\"\"\"\ndef positive_count(nums):\n\t", "source": "MBPP:442"}
+{"prompt": "\"\"\"\nWrite a python function to find the largest negative number from the given list.\n\"\"\"\ndef largest_neg(list1): \n\t", "source": "MBPP:443"}
+{"prompt": "\"\"\"\nWrite a function to trim each tuple by k in the given tuple list.\n\"\"\"\ndef trim_tuple(test_list, K):\n\t", "source": "MBPP:444"}
+{"prompt": "\"\"\"\nWrite a function to perform index wise multiplication of tuple elements in the given two tuples.\n\"\"\"\ndef index_multiplication(test_tup1, test_tup2):\n\t", "source": "MBPP:445"}
+{"prompt": "\"\"\"\nWrite a python function to count the occurence of all elements of list in a tuple.\n\"\"\"\ndef count_Occurrence(tup, lst): \n\t", "source": "MBPP:446"}
+{"prompt": "\"\"\"\nWrite a function to find cubes of individual elements in a list using lambda function.\n\"\"\"\ndef cube_nums(nums):\n\t", "source": "MBPP:447"}
+{"prompt": "\"\"\"\nWrite a function to calculate the sum of perrin numbers.\n\"\"\"\ndef cal_sum(n): \n\t", "source": "MBPP:448"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the triangle is valid or not if 3 points are given.\n\"\"\"\ndef check_Triangle(x1,y1,x2,y2,x3,y3): \n\t", "source": "MBPP:449"}
+{"prompt": "\"\"\"\nWrite a function to extract specified size of strings from a give list of string values.\n\"\"\"\ndef extract_string(str, l):\n\t", "source": "MBPP:450"}
+{"prompt": "\"\"\"\nWrite a function to remove all whitespaces from the given string using regex.\n\"\"\"\ndef remove_whitespaces(text1):\n\t", "source": "MBPP:451"}
+{"prompt": "\"\"\"\nWrite a function that gives loss amount if the given amount has loss else return none.\n\"\"\"\ndef loss_amount(actual_cost,sale_amount): \n\t", "source": "MBPP:452"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of even factors of a number.\n\"\"\"\ndef sumofFactors(n) : \n\t", "source": "MBPP:453"}
+{"prompt": "\"\"\"\nWrite a function that matches a word containing 'z'.\n\"\"\"\ndef text_match_wordz(text):\n\t", "source": "MBPP:454"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given month number contains 31 days or not.\n\"\"\"\ndef check_monthnumb_number(monthnum2):\n\t", "source": "MBPP:455"}
+{"prompt": "\"\"\"\nWrite a function to reverse strings in a given list of string values.\n\"\"\"\ndef reverse_string_list(stringlist):\n\t", "source": "MBPP:456"}
+{"prompt": "\"\"\"\nWrite a python function to find the sublist having minimum length.\n\"\"\"\ndef Find_Min(lst): \n\t", "source": "MBPP:457"}
+{"prompt": "\"\"\"\nWrite a function to find the area of a rectangle.\n\"\"\"\ndef rectangle_area(l,b):\n\t", "source": "MBPP:458"}
+{"prompt": "\"\"\"\nWrite a function to remove uppercase substrings from a given string by using regex.\n\"\"\"\ndef remove_uppercase(str1):\n\t", "source": "MBPP:459"}
+{"prompt": "\"\"\"\nWrite a python function to get the first element of each sublist.\n\"\"\"\ndef Extract(lst): \n\t", "source": "MBPP:460"}
+{"prompt": "\"\"\"\nWrite a python function to count the upper case characters in a given string.\n\"\"\"\ndef upper_ctr(str):\n\t", "source": "MBPP:461"}
+{"prompt": "\"\"\"\nWrite a function to find all possible combinations of the elements of a given list.\n\"\"\"\ndef combinations_list(list1):\n\t", "source": "MBPP:462"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum product subarray of the given array.\n\"\"\"\ndef max_subarray_product(arr):\n\t", "source": "MBPP:463"}
+{"prompt": "\"\"\"\nWrite a function to check if all values are same in a dictionary.\n\"\"\"\ndef check_value(dict, n):\n\t", "source": "MBPP:464"}
+{"prompt": "\"\"\"\nWrite a function to drop empty items from a given dictionary.\n\"\"\"\ndef drop_empty(dict1):\n\t", "source": "MBPP:465"}
+{"prompt": "\"\"\"\nWrite a function to find the peak element in the given array.\n\"\"\"\ndef find_peak_util(arr, low, high, n): \n\t", "source": "MBPP:466"}
+{"prompt": "\"\"\"\nWrite a python function to convert decimal number to octal number.\n\"\"\"\ndef decimal_to_Octal(deciNum):\n\t", "source": "MBPP:467"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum product formed by multiplying numbers of an increasing subsequence of that array.\n\"\"\"\ndef max_product(arr, n ): \n\t", "source": "MBPP:468"}
+{"prompt": "\"\"\"\nWrite a function to find the maximum profit earned from a maximum of k stock transactions\n\"\"\"\ndef max_profit(price, k):\n\t", "source": "MBPP:469"}
+{"prompt": "\"\"\"\nWrite a function to find the pairwise addition of the elements of the given tuples.\n\"\"\"\ndef add_pairwise(test_tup):\n\t", "source": "MBPP:470"}
+{"prompt": "\"\"\"\nWrite a python function to find remainder of array multiplication divided by n.\n\"\"\"\ndef find_remainder(arr, lens, n): \n\t", "source": "MBPP:471"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given list contains consecutive numbers or not.\n\"\"\"\ndef check_Consecutive(l): \n\t", "source": "MBPP:472"}
+{"prompt": "\"\"\"\nWrite a function to find the tuple intersection of elements in the given tuple list irrespective of their order.\n\"\"\"\ndef tuple_intersection(test_list1, test_list2):\n\t", "source": "MBPP:473"}
+{"prompt": "\"\"\"\nWrite a function to replace characters in a string.\n\"\"\"\ndef replace_char(str1,ch,newch):\n\t", "source": "MBPP:474"}
+{"prompt": "\"\"\"\nWrite a function to sort counter by value.\n\"\"\"\ndef sort_counter(dict1):\n\t", "source": "MBPP:475"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of the largest and smallest value in a given array.\n\"\"\"\ndef big_sum(nums):\n\t", "source": "MBPP:476"}
+{"prompt": "\"\"\"\nWrite a python function to convert the given string to lower case.\n\"\"\"\ndef is_lower(string):\n\t", "source": "MBPP:477"}
+{"prompt": "\"\"\"\nWrite a function to remove lowercase substrings from a given string.\n\"\"\"\ndef remove_lowercase(str1):\n\t", "source": "MBPP:478"}
+{"prompt": "\"\"\"\nWrite a python function to find the first digit of a given number.\n\"\"\"\ndef first_Digit(n) :  \n\t", "source": "MBPP:479"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum occurring character in a given string.\n\"\"\"\ndef get_max_occuring_char(str1):\n\t", "source": "MBPP:480"}
+{"prompt": "\"\"\"\nWrite a function to determine if there is a subset of the given set with sum equal to the given sum.\n\"\"\"\ndef is_subset_sum(set, n, sum):\n\t", "source": "MBPP:481"}
+{"prompt": "\"\"\"\nWrite a function to find sequences of one upper case letter followed by lower case letters in the given string by using regex.\n\"\"\"\ndef match(text): \n\t", "source": "MBPP:482"}
+{"prompt": "\"\"\"\nWrite a python function to find the first natural number whose factorial is divisible by x.\n\"\"\"\ndef first_Factorial_Divisible_Number(x): \n\t", "source": "MBPP:483"}
+{"prompt": "\"\"\"\nWrite a function to remove the matching tuples from the given two tuples.\n\"\"\"\ndef remove_matching_tuple(test_list1, test_list2):\n\t", "source": "MBPP:484"}
+{"prompt": "\"\"\"\nWrite a function to find the largest palindromic number in the given array.\n\"\"\"\ndef largest_palindrome(A, n) : \n\t", "source": "MBPP:485"}
+{"prompt": "\"\"\"\nWrite a function to compute binomial probability for the given number.\n\"\"\"\ndef binomial_probability(n, k, p): \n\t", "source": "MBPP:486"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of tuples in increasing order by the last element in each tuple.\n\"\"\"\ndef sort_tuple(tup): \n\t", "source": "MBPP:487"}
+{"prompt": "\"\"\"\nWrite a function to find the area of a pentagon.\n\"\"\"\ndef area_pentagon(a):\n\t", "source": "MBPP:488"}
+{"prompt": "\"\"\"\nWrite a python function to find the frequency of the largest value in a given array.\n\"\"\"\ndef frequency_Of_Largest(n,arr): \n\t", "source": "MBPP:489"}
+{"prompt": "\"\"\"\nWrite a function to extract all the pairs which are symmetric in the given tuple list.\n\"\"\"\ndef extract_symmetric(test_list):\n\t", "source": "MBPP:490"}
+{"prompt": "\"\"\"\nWrite a function to find the sum of geometric progression series.\n\"\"\"\ndef sum_gp(a,n,r):\n\t", "source": "MBPP:491"}
+{"prompt": "\"\"\"\nWrite a function to search an element in the given array by using binary search.\n\"\"\"\ndef binary_search(item_list,item):\n\t", "source": "MBPP:492"}
+{"prompt": "\"\"\"\nWrite a function to calculate a grid of hexagon coordinates where function returns a list of lists containing 6 tuples of x, y point coordinates.\n\"\"\"\ndef calculate_polygons(startx, starty, endx, endy, radius):\n\t", "source": "MBPP:493"}
+{"prompt": "\"\"\"\nWrite a function to convert the given binary tuple to integer.\n\"\"\"\ndef binary_to_integer(test_tup):\n\t", "source": "MBPP:494"}
+{"prompt": "\"\"\"\nWrite a function to remove lowercase substrings from a given string by using regex.\n\"\"\"\ndef remove_lowercase(str1):\n\t", "source": "MBPP:495"}
+{"prompt": "\"\"\"\nWrite a function to find the smallest integers from a given list of numbers using heap queue algorithm.\n\"\"\"\ndef heap_queue_smallest(nums,n):\n\t", "source": "MBPP:496"}
+{"prompt": "\"\"\"\nWrite a function to find the surface area of a cone.\n\"\"\"\ndef surfacearea_cone(r,h):\n\t", "source": "MBPP:497"}
+{"prompt": "\"\"\"\nWrite a python function to find gcd of two positive integers.\n\"\"\"\ndef gcd(x, y):\n\t", "source": "MBPP:498"}
+{"prompt": "\"\"\"\nWrite a function to find the diameter of a circle.\n\"\"\"\ndef diameter_circle(r):\n\t", "source": "MBPP:499"}
+{"prompt": "\"\"\"\nWrite a function to concatenate all elements of the given list into a string.\n\"\"\"\ndef concatenate_elements(list):\n\t", "source": "MBPP:500"}
+{"prompt": "\"\"\"\nWrite a python function to find common divisor between two numbers in a given pair.\n\"\"\"\ndef num_comm_div(x,y):\n\t", "source": "MBPP:501"}
+{"prompt": "\"\"\"\nWrite a python function to find remainder of two numbers.\n\"\"\"\ndef find(n,m):\n\t", "source": "MBPP:502"}
+{"prompt": "\"\"\"\nWrite a function to add consecutive numbers of a given list.\n\"\"\"\ndef add_consecutive_nums(nums):\n\t", "source": "MBPP:503"}
+{"prompt": "\"\"\"\nWrite a python function to find the cube sum of first n natural numbers.\n\"\"\"\ndef sum_Of_Series(n): \n\t", "source": "MBPP:504"}
+{"prompt": "\"\"\"\nWrite a function to move all zeroes to the end of the given array.\n\"\"\"\ndef re_order(A):\n\t", "source": "MBPP:505"}
+{"prompt": "\"\"\"\nWrite a function to calculate the permutation coefficient of given p(n, k).\n\"\"\"\ndef permutation_coefficient(n, k): \n\t", "source": "MBPP:506"}
+{"prompt": "\"\"\"\nWrite a function to remove specific words from a given list.\n\"\"\"\ndef remove_words(list1, removewords):\n\t", "source": "MBPP:507"}
+{"prompt": "\"\"\"\nWrite a function to check if the common elements between two given lists are in the same order or not.\n\"\"\"\ndef same_order(l1, l2):\n\t", "source": "MBPP:508"}
+{"prompt": "\"\"\"\nWrite a python function to find the average of odd numbers till a given odd number.\n\"\"\"\ndef average_Odd(n) : \n\t", "source": "MBPP:509"}
+{"prompt": "\"\"\"\nWrite a function to find the number of subsequences having product smaller than k for the given non negative array.\n\"\"\"\ndef no_of_subsequences(arr, k): \n\t", "source": "MBPP:510"}
+{"prompt": "\"\"\"\nWrite a python function to find minimum sum of factors of a given number.\n\"\"\"\ndef find_Min_Sum(num): \n\t", "source": "MBPP:511"}
+{"prompt": "\"\"\"\nWrite a function to count the element frequency in the mixed nested tuple.\n\"\"\"\ndef count_element_freq(test_tuple):\n\t", "source": "MBPP:512"}
+{"prompt": "\"\"\"\nWrite a function to convert tuple into list by adding the given string after every element.\n\"\"\"\ndef add_str(test_tup, K):\n\t", "source": "MBPP:513"}
+{"prompt": "\"\"\"\nWrite a function to find the summation of tuple elements in the given tuple list.\n\"\"\"\ndef sum_elements(test_tup):\n\t", "source": "MBPP:514"}
+{"prompt": "\"\"\"\nWrite a function to check if there is a subset with sum divisible by m.\n\"\"\"\ndef modular_sum(arr, n, m): \n\t", "source": "MBPP:515"}
+{"prompt": "\"\"\"\nWrite a function to sort a list of elements using radix sort.\n\"\"\"\ndef radix_sort(nums):\n\t", "source": "MBPP:516"}
+{"prompt": "\"\"\"\nWrite a python function to find the largest postive number from the given list.\n\"\"\"\ndef largest_pos(list1): \n\t", "source": "MBPP:517"}
+{"prompt": "\"\"\"\nWrite a function to find the square root of a perfect number.\n\"\"\"\ndef sqrt_root(num):\n\t", "source": "MBPP:518"}
+{"prompt": "\"\"\"\nWrite a function to calculate volume of a tetrahedron.\n\"\"\"\ndef volume_tetrahedron(num):\n\t", "source": "MBPP:519"}
+{"prompt": "\"\"\"\nWrite a function to find the lcm of the given array elements.\n\"\"\"\ndef get_lcm(l):\n\t", "source": "MBPP:520"}
+{"prompt": "\"\"\"\nWrite a function to print check if the triangle is scalene or not.\n\"\"\"\ndef check_isosceles(x,y,z):\n\t", "source": "MBPP:521"}
+{"prompt": "\"\"\"\nWrite a function to find the longest bitonic subsequence for the given array.\n\"\"\"\ndef lbs(arr): \n\t", "source": "MBPP:522"}
+{"prompt": "\"\"\"\nWrite a function to check whether a given string has a capital letter, a lower case letter, a number and specified length using lambda function.\n\"\"\"\ndef check_string(str1):\n\t", "source": "MBPP:523"}
+{"prompt": "\"\"\"\nWrite a function to find the sum of maximum increasing subsequence of the given array.\n\"\"\"\ndef max_sum_increasing_subsequence(arr, n): \n\t", "source": "MBPP:524"}
+{"prompt": "\"\"\"\nWrite a python function to check whether two given lines are parallel or not.\n\"\"\"\ndef parallel_lines(line1, line2):\n\t", "source": "MBPP:525"}
+{"prompt": "\"\"\"\nWrite a python function to capitalize first and last letters of each word of a given string.\n\"\"\"\ndef capitalize_first_last_letters(str1):\n\t", "source": "MBPP:526"}
+{"prompt": "\"\"\"\nWrite a function to find all pairs in an integer array whose sum is equal to a given number.\n\"\"\"\ndef get_pairs_count(arr, n, sum):\n\t", "source": "MBPP:527"}
+{"prompt": "\"\"\"\nWrite a function to find the list of lists with minimum length.\n\"\"\"\ndef min_length(list1):\n\t", "source": "MBPP:528"}
+{"prompt": "\"\"\"\nWrite a function to find the nth jacobsthal-lucas number.\n\"\"\"\ndef jacobsthal_lucas(n): \n\t", "source": "MBPP:529"}
+{"prompt": "\"\"\"\nWrite a function to find the ration of negative numbers in an array of integers.\n\"\"\"\ndef negative_count(nums):\n\t", "source": "MBPP:530"}
+{"prompt": "\"\"\"\nWrite a function to find minimum number of coins that make a given value.\n\"\"\"\ndef min_coins(coins, m, V): \n\t", "source": "MBPP:531"}
+{"prompt": "\"\"\"\nWrite a function to check if the two given strings are permutations of each other.\n\"\"\"\ndef check_permutation(str1, str2):\n\t", "source": "MBPP:532"}
+{"prompt": "\"\"\"\nWrite a function to remove particular data type elements from the given tuple.\n\"\"\"\ndef remove_datatype(test_tuple, data_type):\n\t", "source": "MBPP:533"}
+{"prompt": "\"\"\"\nWrite a function to search a literals string in a string and also find the location within the original string where the pattern occurs.\n\"\"\"\ndef search_literal(pattern,text):\n\t", "source": "MBPP:534"}
+{"prompt": "\"\"\"\nWrite a function to find the top or bottom surface area of a cylinder.\n\"\"\"\ndef topbottom_surfacearea(r):\n\t", "source": "MBPP:535"}
+{"prompt": "\"\"\"\nWrite a function to select the nth items of a list.\n\"\"\"\ndef nth_items(list,n):\n\t", "source": "MBPP:536"}
+{"prompt": "\"\"\"\nWrite a python function to find the first repeated word in a given string.\n\"\"\"\ndef first_repeated_word(str1):\n\t", "source": "MBPP:537"}
+{"prompt": "\"\"\"\nWrite a python function to convert a given string list to a tuple.\n\"\"\"\ndef string_list_to_tuple(str1):\n\t", "source": "MBPP:538"}
+{"prompt": "\"\"\"\nWrite a function to create a list containing the power of said number in bases raised to the corresponding number in the index using map function.\n\"\"\"\ndef basesnum_coresspondingnum(bases_num,index):\n\t", "source": "MBPP:539"}
+{"prompt": "\"\"\"\nWrite a python function to find the difference between highest and least frequencies in a given array.\n\"\"\"\ndef find_Diff(arr,n): \n\t", "source": "MBPP:540"}
+{"prompt": "\"\"\"\nWrite a function to find if the given number is abundant or not.\n\"\"\"\ndef check_abundant(n): \n\t", "source": "MBPP:541"}
+{"prompt": "\"\"\"\nWrite a function to replace all occurrences of spaces, commas, or dots with a colon in the given string by using regex.\n\"\"\"\ndef fill_spaces(text):\n\t", "source": "MBPP:542"}
+{"prompt": "\"\"\"\nWrite a function to add two numbers and print number of digits of sum.\n\"\"\"\ndef count_digits(num1,num2):\n\t", "source": "MBPP:543"}
+{"prompt": "\"\"\"\nWrite a function to flatten the tuple list to a string.\n\"\"\"\ndef flatten_tuple(test_list):\n\t", "source": "MBPP:544"}
+{"prompt": "\"\"\"\nWrite a python function to toggle only first and last bits of a given number.\n\"\"\"\ndef toggle_F_and_L_bits(n) :  \n\t", "source": "MBPP:545"}
+{"prompt": "\"\"\"\nWrite a function to find the last occurrence of a character in a string.\n\"\"\"\ndef last_occurence_char(string,char):\n\t", "source": "MBPP:546"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of hamming distances of all consecutive numbers from o to n.\n\"\"\"\ndef Total_Hamming_Distance(n):   \n\t", "source": "MBPP:547"}
+{"prompt": "\"\"\"\nWrite a function to find the length of the longest increasing subsequence of the given sequence.\n\"\"\"\ndef longest_increasing_subsequence(arr): \n\t", "source": "MBPP:548"}
+{"prompt": "\"\"\"\nWrite a python function to find the sum of fifth power of first n odd natural numbers.\n\"\"\"\ndef odd_Num_Sum(n) : \n\t", "source": "MBPP:549"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum element in a sorted and rotated array.\n\"\"\"\ndef find_Max(arr,low,high): \n\t", "source": "MBPP:550"}
+{"prompt": "\"\"\"\nWrite a function to extract a specified column from a given nested list.\n\"\"\"\ndef extract_column(list1, n):\n\t", "source": "MBPP:551"}
+{"prompt": "\"\"\"\nWrite a python function to check whether a given sequence is linear or not.\n\"\"\"\ndef Seq_Linear(seq_nums):\n\t", "source": "MBPP:552"}
+{"prompt": "\"\"\"\nWrite a function to convert the given tuple to a floating-point number.\n\"\"\"\ndef tuple_to_float(test_tup):\n\t", "source": "MBPP:553"}
+{"prompt": "\"\"\"\nWrite a python function to find odd numbers from a mixed list.\n\"\"\"\ndef Split(list): \n\t", "source": "MBPP:554"}
+{"prompt": "\"\"\"\nWrite a python function to find the difference between sum of cubes of first n natural numbers and the sum of first n natural numbers.\n\"\"\"\ndef difference(n) :  \n\t", "source": "MBPP:555"}
+{"prompt": "\"\"\"\nWrite a python function to count the pairs with xor as an odd number.\n\"\"\"\ndef find_Odd_Pair(A,N) : \n\t", "source": "MBPP:556"}
+{"prompt": "\"\"\"\nWrite a function to toggle characters case in a string.\n\"\"\"\ndef toggle_string(string):\n\t", "source": "MBPP:557"}
+{"prompt": "\"\"\"\nWrite a python function to find the digit distance between two integers.\n\"\"\"\ndef digit_distance_nums(n1, n2):\n\t", "source": "MBPP:558"}
+{"prompt": "\"\"\"\nWrite a function to find the largest sum of contiguous subarray in the given array.\n\"\"\"\ndef max_sub_array_sum(a, size):\n\t", "source": "MBPP:559"}
+{"prompt": "\"\"\"\nWrite a function to find the union of elements of the given tuples.\n\"\"\"\ndef union_elements(test_tup1, test_tup2):\n\t", "source": "MBPP:560"}
+{"prompt": "\"\"\"\nWrite a function to assign with each element, its pair elements from other similar pairs in the given tuple.\n\"\"\"\ndef assign_elements(test_list):\n\t", "source": "MBPP:561"}
+{"prompt": "\"\"\"\nWrite a python function to find the maximum length of sublist.\n\"\"\"\ndef Find_Max_Length(lst):  \n\t", "source": "MBPP:562"}
+{"prompt": "\"\"\"\nWrite a function to extract values between quotation marks of a string.\n\"\"\"\ndef extract_values(text):\n\t", "source": "MBPP:563"}
+{"prompt": "\"\"\"\nWrite a python function to count unequal element pairs from the given array.\n\"\"\"\ndef count_Pairs(arr,n): \n\t", "source": "MBPP:564"}
+{"prompt": "\"\"\"\nWrite a python function to split a string into characters.\n\"\"\"\ndef split(word): \n\t", "source": "MBPP:565"}
+{"prompt": "\"\"\"\nWrite a function to get the sum of a non-negative integer.\n\"\"\"\ndef sum_digits(n):\n\t", "source": "MBPP:566"}
+{"prompt": "\"\"\"\nWrite a function to check whether a specified list is sorted or not.\n\"\"\"\ndef issort_list(list1):\n\t", "source": "MBPP:567"}
+{"prompt": "\"\"\"\nWrite a function to create a list of empty dictionaries.\n\"\"\"\ndef empty_list(length):\n\t", "source": "MBPP:568"}
+{"prompt": "\"\"\"\nWrite a function to sort each sublist of strings in a given list of lists.\n\"\"\"\ndef sort_sublists(list1):\n\t", "source": "MBPP:569"}
+{"prompt": "\"\"\"\nWrite a function to remove words from a given list of strings containing a character or string.\n\"\"\"\ndef remove_words(list1, charlist):\n\t", "source": "MBPP:570"}
+{"prompt": "\"\"\"\nWrite a function to find maximum possible sum of disjoint pairs for the given array of integers and a number k.\n\"\"\"\ndef max_sum_pair_diff_lessthan_K(arr, N, K): \n\t", "source": "MBPP:571"}
+{"prompt": "\"\"\"\nWrite a python function to remove two duplicate numbers from a given number of lists.\n\"\"\"\ndef two_unique_nums(nums):\n\t", "source": "MBPP:572"}
+{"prompt": "\"\"\"\nWrite a python function to calculate the product of the unique numbers of a given list.\n\"\"\"\ndef unique_product(list_data):\n\t", "source": "MBPP:573"}
+{"prompt": "\"\"\"\nWrite a function to find the surface area of a cylinder.\n\"\"\"\ndef surfacearea_cylinder(r,h):\n\t", "source": "MBPP:574"}
+{"prompt": "\"\"\"\nWrite a python function to find nth number in a sequence which is not a multiple of a given number.\n\"\"\"\ndef count_no (A,N,L,R): \n\t", "source": "MBPP:575"}
+{"prompt": "\"\"\"\nWrite a python function to check whether an array is subarray of another or not.\n\"\"\"\ndef is_Sub_Array(A,B,n,m): \n\t", "source": "MBPP:576"}
+{"prompt": "\"\"\"\nWrite a python function to find the last digit in factorial of a given number.\n\"\"\"\ndef last_Digit_Factorial(n): \n\t", "source": "MBPP:577"}
+{"prompt": "\"\"\"\nWrite a function to interleave lists of the same length.\n\"\"\"\ndef interleave_lists(list1,list2,list3):\n\t", "source": "MBPP:578"}
+{"prompt": "\"\"\"\nWrite a function to find the dissimilar elements in the given two tuples.\n\"\"\"\ndef find_dissimilar(test_tup1, test_tup2):\n\t", "source": "MBPP:579"}
+{"prompt": "\"\"\"\nWrite a function to extract the even elements in the nested mixed tuple.\n\"\"\"\ndef extract_even(test_tuple):\n\t", "source": "MBPP:580"}
+{"prompt": "\"\"\"\nWrite a python function to find the surface area of the square pyramid.\n\"\"\"\ndef surface_Area(b,s): \n\t", "source": "MBPP:581"}
+{"prompt": "\"\"\"\nWrite a function to check if a dictionary is empty or not.\n\"\"\"\ndef my_dict(dict1):\n\t", "source": "MBPP:582"}
+{"prompt": "\"\"\"\nWrite a function for nth catalan number.\n\"\"\"\ndef catalan_number(num):\n\t", "source": "MBPP:583"}
+{"prompt": "\"\"\"\nWrite a function to find all adverbs and their positions in a given sentence by using regex.\n\"\"\"\ndef find_adverbs(text):\n\t", "source": "MBPP:584"}
+{"prompt": "\"\"\"\nWrite a function to find the n - expensive price items from a given dataset using heap queue algorithm.\n\"\"\"\ndef expensive_items(items,n):\n\t", "source": "MBPP:585"}
+{"prompt": "\"\"\"\nWrite a python function to split the array and add the first part to the end.\n\"\"\"\ndef split_Arr(a,n,k):  \n\t", "source": "MBPP:586"}
+{"prompt": "\"\"\"\nWrite a function to convert a list to a tuple.\n\"\"\"\ndef list_tuple(listx):\n\t", "source": "MBPP:587"}
+{"prompt": "\"\"\"\nWrite a python function to find the difference between largest and smallest value in a given array.\n\"\"\"\ndef big_diff(nums):\n\t", "source": "MBPP:588"}
+{"prompt": "\"\"\"\nWrite a function to find perfect squares between two given numbers.\n\"\"\"\ndef perfect_squares(a, b):\n\t", "source": "MBPP:589"}
+{"prompt": "\"\"\"\nWrite a function to convert polar coordinates to rectangular coordinates.\n\"\"\"\ndef polar_rect(x,y):\n\t", "source": "MBPP:590"}
+{"prompt": "\"\"\"\nWrite a python function to interchange the first and last elements in a list.\n\"\"\"\ndef swap_List(newList): \n\t", "source": "MBPP:591"}
+{"prompt": "\"\"\"\nWrite a python function to find sum of product of binomial co-efficients.\n\"\"\"\ndef sum_Of_product(n): \n\t", "source": "MBPP:592"}
+{"prompt": "\"\"\"\nWrite a function to remove leading zeroes from an ip address.\n\"\"\"\ndef removezero_ip(ip):\n\t", "source": "MBPP:593"}
+{"prompt": "\"\"\"\nWrite a function to find the difference of first even and odd number of a given list.\n\"\"\"\ndef diff_even_odd(list1):\n\t", "source": "MBPP:594"}
+{"prompt": "\"\"\"\nWrite a python function to count minimum number of swaps required to convert one binary string to another.\n\"\"\"\ndef min_Swaps(str1,str2) : \n\t", "source": "MBPP:595"}
+{"prompt": "\"\"\"\nWrite a function to find the size of the given tuple.\n\"\"\"\ndef tuple_size(tuple_list):\n\t", "source": "MBPP:596"}
+{"prompt": "\"\"\"\nWrite a function to find kth element from the given two sorted arrays.\n\"\"\"\ndef find_kth(arr1, arr2, m, n, k):\n\t", "source": "MBPP:597"}
+{"prompt": "\"\"\"\nWrite a function to check whether the given number is armstrong or not.\n\"\"\"\ndef armstrong_number(number):\n\t", "source": "MBPP:598"}
+{"prompt": "\"\"\"\nWrite a function to find sum and average of first n natural numbers.\n\"\"\"\ndef sum_average(number):\n\t", "source": "MBPP:599"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the given number is even or not using bitwise operator.\n\"\"\"\ndef is_Even(n) : \n\t", "source": "MBPP:600"}
+{"prompt": "\"\"\"\nWrite a function to find the minimum cost path to reach (m, n) from (0, 0) for the given cost matrix cost[][] and a position (m, n) in cost[][].\n\"\"\"\ndef min_cost(cost, m, n): \n\t", "source": "MBPP:1"}
+{"prompt": "\"\"\"\nWrite a function to find the similar elements from the given two tuple lists.\n\"\"\"\ndef similar_elements(test_tup1, test_tup2):\n\t", "source": "MBPP:2"}
+{"prompt": "\"\"\"\nWrite a python function to identify non-prime numbers.\n\"\"\"\ndef is_not_prime(n):\n\t", "source": "MBPP:3"}
+{"prompt": "\"\"\"\nWrite a function to find the largest integers from a given list of numbers using heap queue algorithm.\n\"\"\"\ndef heap_queue_largest(nums,n):\n\t", "source": "MBPP:4"}
+{"prompt": "\"\"\"\nWrite a function to find the number of ways to fill it with 2 x 1 dominoes for the given 3 x n board.\n\"\"\"\ndef count_ways(n): \n\t", "source": "MBPP:5"}
+{"prompt": "\"\"\"\nWrite a python function to check whether the two numbers differ at one bit position only or not.\n\"\"\"\ndef differ_At_One_Bit_Pos(a,b): \n\t", "source": "MBPP:6"}
+{"prompt": "\"\"\"\nWrite a function to find all words which are at least 4 characters long in a string by using regex.\n\"\"\"\ndef find_char_long(text):\n\t", "source": "MBPP:7"}
+{"prompt": "\"\"\"\nWrite a function to find squares of individual elements in a list using lambda function.\n\"\"\"\ndef square_nums(nums):\n\t", "source": "MBPP:8"}
+{"prompt": "\"\"\"\nWrite a python function to find the minimum number of rotations required to get the same string.\n\"\"\"\ndef find_Rotations(str): \n\t", "source": "MBPP:9"}
+{"prompt": "\"\"\"\nWrite a function to get the n smallest items from a dataset.\n\"\"\"\ndef small_nnum(list1,n):\n\t", "source": "MBPP:10"}
