@@ -10,7 +10,7 @@ class StarCoder22(BaseModel):
         super().__init__()
         self.model_path = model_path
         self.device = device
-        self.model_name = "StarCoder22"
+        self.model_name = "StarCoder2_15b"
 
     def setup_model(self):
         self.model = AutoModelForCausalLM.from_pretrained(

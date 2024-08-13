@@ -4,13 +4,13 @@ import torch
 from BaseModel import BaseModel
 
 
-class StarCoder21(BaseModel):
-    def __init__(self, model_path="/home/Data/models/starcoder2-7b",
+class DeepSeek3(BaseModel):
+    def __init__(self, model_path="/home/Data/models/deepseek-coder-6.7b-base",
                  device="cuda:3"):
         super().__init__()
         self.model_path = model_path
         self.device = device
-        self.model_name = "StarCoder2"
+        self.model_name = "DeepSeek"
 
     def setup_model(self):
         self.model = AutoModelForCausalLM.from_pretrained(

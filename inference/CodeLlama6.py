@@ -4,13 +4,13 @@ import torch
 from BaseModel import BaseModel
 
 
-class StarCoder21(BaseModel):
-    def __init__(self, model_path="/home/Data/models/starcoder2-7b",
+class CodeLlama6(BaseModel):
+    def __init__(self, model_path="/home/Data/models/codellama-34b-instruct",
                  device="cuda:3"):
         super().__init__()
         self.model_path = model_path
         self.device = device
-        self.model_name = "StarCoder2"
+        self.model_name = "CodeLlama"
 
     def setup_model(self):
         self.model = AutoModelForCausalLM.from_pretrained(
