@@ -1,0 +1,18 @@
+[{
+  "do_sample": true,
+  "num_beams": 1,
+  "top_p": 0.95,
+  "top_k": 0
+},
+{
+  "do_sample": true,
+  "num_beams": 1,
+  "top_p": 0.9,
+  "top_k": 0
+},
+{
+  "do_sample": true,
+  "num_beams": 1,
+  "top_p": 0.85,
+  "top_k": 0
+}]
