@@ -9,6 +9,7 @@ OUTPUT_DIR = str(Path(ROOT_DIR) / "output")
 MODELS = ["SantaCoder", "StarCoder", "WizardCoder", "Magicoder", "StarCoder21", "StarCoder22", "StarCoder23",
           "CodeLlama1", "CodeLlama2", "CodeLlama3", "CodeLlama4", "CodeLlama5", "CodeLlama",
           "DeepSeek1", "DeepSeek2", "DeepSeek", "DeepSeek4", "DeepSeek5", "DeepSeek6"]
+DEEPSEEKS = ["DeepSeek1", "DeepSeek2", "DeepSeek", "DeepSeek4", "DeepSeek5", "DeepSeek6"]
 DATASET = ["HumanEval", "Multi_HumanEval_java", "MBPP"]
 DECODING_STRATEGY = ["GreedySearch", "BeamSearch", "NucleusSampling", "TopKSampling", "ContrastiveSearch",
                      "RepetitionPenalty"]
